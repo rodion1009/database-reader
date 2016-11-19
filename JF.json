@@ -1,0 +1,6833 @@
+[
+{
+  "model": "re_app.city",
+  "pk": 1,
+  "fields": {
+    "name": "\u041c\u043e\u0441\u043a\u0432\u0430"
+  }
+},
+{
+  "model": "re_app.city",
+  "pk": 2,
+  "fields": {
+    "name": "\u041a\u0430\u0437\u0430\u043d\u044c"
+  }
+},
+{
+  "model": "re_app.city",
+  "pk": 3,
+  "fields": {
+    "name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433"
+  }
+},
+{
+  "model": "re_app.city",
+  "pk": 4,
+  "fields": {
+    "name": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a"
+  }
+},
+{
+  "model": "re_app.city",
+  "pk": 5,
+  "fields": {
+    "name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433"
+  }
+},
+{
+  "model": "re_app.city",
+  "pk": 6,
+  "fields": {
+    "name": "\u0412\u043e\u0440\u043e\u043d\u0435\u0436"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 3,
+  "fields": {
+    "city": 1,
+    "name": "\u0411\u0443\u043b\u0430\u0442\u043d\u0438\u043a\u043e\u0432\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 5,
+  "fields": {
+    "city": 1,
+    "name": "\u0443\u043b. \u041d\u0438\u0436\u043d\u044f\u044f \u0421\u044b\u0440\u043e\u043c\u044f\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f, \u0434. 10"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 6,
+  "fields": {
+    "city": 1,
+    "name": "\u041d\u0438\u0436\u043d\u044f\u044f \u0421\u044b\u0440\u043e\u043c\u044f\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 7,
+  "fields": {
+    "city": 1,
+    "name": "\u0410\u0432\u0438\u0430\u043c\u043e\u0442\u043e\u0440\u043d\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 8,
+  "fields": {
+    "city": 1,
+    "name": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0410\u043d\u0434\u0440\u043e\u043f\u043e\u0432\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 9,
+  "fields": {
+    "city": 1,
+    "name": "\u0411\u0435\u043b\u043e\u0440\u0435\u0447\u0435\u043d\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 10,
+  "fields": {
+    "city": 1,
+    "name": "\u0428\u0430\u0431\u043e\u043b\u043e\u0432\u043a\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 11,
+  "fields": {
+    "city": 1,
+    "name": "\u041d\u0438\u043a\u0443\u043b\u0438\u043d\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 12,
+  "fields": {
+    "city": 1,
+    "name": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 13,
+  "fields": {
+    "city": 1,
+    "name": "\u0411\u0443\u043b\u044c\u0432\u0430\u0440 \u0414\u043c\u0438\u0442\u0440\u0438\u044f \u0414\u043e\u043d\u0441\u043a\u043e\u0433\u043e"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 14,
+  "fields": {
+    "city": 1,
+    "name": "\u041c\u0430\u0441\u0442\u0435\u0440\u043a\u043e\u0432\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 15,
+  "fields": {
+    "city": 1,
+    "name": "\u041f\u0440\u043e\u0444\u0441\u043e\u044e\u0437\u043d\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 16,
+  "fields": {
+    "city": 1,
+    "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u043e\u0435 \u0448\u043e\u0441\u0441\u0435"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 17,
+  "fields": {
+    "city": 1,
+    "name": "\u041b\u044e\u0431\u043b\u0438\u043d\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 18,
+  "fields": {
+    "city": 1,
+    "name": "\u041b\u0435\u0442\u0447\u0438\u043a\u0430 \u0411\u0430\u0431\u0443\u0448\u043a\u0438\u043d\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 19,
+  "fields": {
+    "city": 1,
+    "name": "\u0422\u0443\u0448\u0438\u043d\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 20,
+  "fields": {
+    "city": 1,
+    "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0442\u0443\u0434\u0435\u043d\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 21,
+  "fields": {
+    "city": 1,
+    "name": "\u0414\u043c\u0438\u0442\u0440\u043e\u0432\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 22,
+  "fields": {
+    "city": 1,
+    "name": "\u0410\u043a\u0430\u0434\u0435\u043c\u0438\u043a\u0430 \u041a\u043e\u043c\u0430\u0440\u043e\u0432\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 23,
+  "fields": {
+    "city": 1,
+    "name": "\u0411\u0430\u0436\u043e\u0432\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 24,
+  "fields": {
+    "city": 1,
+    "name": "\u0411\u0443\u0434\u0430\u0439\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 25,
+  "fields": {
+    "city": 1,
+    "name": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0438\u0440\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 26,
+  "fields": {
+    "city": 1,
+    "name": "\u0428\u0443\u043c\u043a\u0438\u043d\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 27,
+  "fields": {
+    "city": 1,
+    "name": "\u041c\u0430\u043b\u0430\u044f \u0413\u0440\u0443\u0437\u0438\u043d\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 28,
+  "fields": {
+    "city": 1,
+    "name": "\u0421\u0442\u043e\u043b\u044f\u0440\u043d\u044b\u0439 \u043f\u0435\u0440\u0435\u0443\u043b\u043e\u043a"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 29,
+  "fields": {
+    "city": 1,
+    "name": "\u0427\u0430\u043f\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0443\u043b\u043e\u043a"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 30,
+  "fields": {
+    "city": 1,
+    "name": "\u0412\u0438\u043a\u0442\u043e\u0440\u0435\u043d\u043a\u043e"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 31,
+  "fields": {
+    "city": 1,
+    "name": "\u0428\u0442\u0443\u0440\u0432\u0430\u043b\u044c\u043d\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 32,
+  "fields": {
+    "city": 1,
+    "name": "\u0421\u0445\u043e\u0434\u043d\u0435\u043d\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 33,
+  "fields": {
+    "city": 1,
+    "name": "\u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 34,
+  "fields": {
+    "city": 1,
+    "name": "\u041a\u043e\u0441\u0442\u044f\u043a\u043e\u0432\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 35,
+  "fields": {
+    "city": 1,
+    "name": "\u0410\u0441\u0442\u0440\u0430\u0434\u0430\u043c\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 36,
+  "fields": {
+    "city": 1,
+    "name": "\u0412\u0435\u0440\u0445\u043d\u0438\u0435 \u043f\u043e\u043b\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 37,
+  "fields": {
+    "city": 1,
+    "name": "\u041c\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u043a"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 38,
+  "fields": {
+    "city": 1,
+    "name": "\u0421\u0442\u0435\u043f\u0430\u043d\u0430 \u0428\u0443\u0442\u043e\u0432\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 39,
+  "fields": {
+    "city": 1,
+    "name": "\u0422\u0438\u0445\u043e\u0440\u0435\u0446\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 40,
+  "fields": {
+    "city": 1,
+    "name": "\u041f\u043e\u043b\u0431\u0438\u043d\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 41,
+  "fields": {
+    "city": 1,
+    "name": "\u041f\u0435\u0440\u0435\u0440\u0432\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 42,
+  "fields": {
+    "city": 1,
+    "name": "\u0414\u043e\u043d\u0435\u0446\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 43,
+  "fields": {
+    "city": 1,
+    "name": "\u041d\u043e\u0432\u043e\u0447\u0435\u0440\u043a\u0430\u0441\u0441\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 44,
+  "fields": {
+    "city": 1,
+    "name": "\u0410\u043a\u0430\u0434\u0435\u043c\u0438\u043a\u0430 \u0421\u043a\u0440\u044f\u0431\u0438\u043d\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 45,
+  "fields": {
+    "city": 1,
+    "name": "\u041e\u0440\u0435\u0445\u043e\u0432\u043e-\u0417\u0443\u0435\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 46,
+  "fields": {
+    "city": 1,
+    "name": "\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 47,
+  "fields": {
+    "city": 1,
+    "name": "\u041a\u0430\u0448\u0438\u0440\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 48,
+  "fields": {
+    "city": 1,
+    "name": "2-\u043e\u0439 \u041d\u0430\u0433\u0430\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 49,
+  "fields": {
+    "city": 1,
+    "name": "\u041a\u0430\u0432\u043a\u0430\u0437\u0441\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 50,
+  "fields": {
+    "city": 1,
+    "name": "\u0412\u0435\u0440\u043d\u0430\u0434\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 51,
+  "fields": {
+    "city": 1,
+    "name": "\u041e\u0447\u0430\u043a\u043e\u0432\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 52,
+  "fields": {
+    "city": 1,
+    "name": "\u0420\u044f\u0431\u0438\u043d\u043e\u0432\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 53,
+  "fields": {
+    "city": 1,
+    "name": "\u0412\u0435\u0440\u0435\u0439\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 54,
+  "fields": {
+    "city": 1,
+    "name": "\u0412\u043e\u043b\u0445\u043e\u043d\u043a\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 55,
+  "fields": {
+    "city": 1,
+    "name": "\u0413\u043e\u0440\u0431\u0443\u043d\u043e\u0432\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 56,
+  "fields": {
+    "city": 1,
+    "name": "\u0422\u0430\u043b\u0430\u043b\u0438\u0445\u0438\u043d\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 57,
+  "fields": {
+    "city": 1,
+    "name": "\u042e\u0436\u043d\u043e\u043f\u0440\u043e\u0442\u043e\u0432\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 58,
+  "fields": {
+    "city": 1,
+    "name": "\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0440\u0443\u0434\u043d\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 59,
+  "fields": {
+    "city": 1,
+    "name": "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 60,
+  "fields": {
+    "city": 1,
+    "name": "\u0422\u0430\u0433\u0438\u043b\u044c\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 61,
+  "fields": {
+    "city": 1,
+    "name": "\u0421\u0435\u0432\u0435\u0440\u044f\u043d\u0438\u043d\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 62,
+  "fields": {
+    "city": 1,
+    "name": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 63,
+  "fields": {
+    "city": 1,
+    "name": "\u0421\u0442\u0430\u0440\u043e\u0432\u0430\u0442\u0443\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 64,
+  "fields": {
+    "city": 1,
+    "name": "\u0415\u043d\u0438\u0441\u0435\u0439\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 65,
+  "fields": {
+    "city": 1,
+    "name": "\u041f\u043e\u043b\u044f\u0440\u043d\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 66,
+  "fields": {
+    "city": 1,
+    "name": "\u0418\u043b\u0438\u043c\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 67,
+  "fields": {
+    "city": 1,
+    "name": "1-\u044b\u0439 \u041d\u0438\u0436\u043d\u0435\u043b\u0438\u0445\u043e\u0431\u043e\u0440\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 68,
+  "fields": {
+    "city": 1,
+    "name": "\u041a\u043b\u0430\u0440\u044b \u0426\u0435\u0442\u043a\u0438\u043d"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 69,
+  "fields": {
+    "city": 1,
+    "name": "\u0417\u043d\u0430\u043c\u0435\u043d\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 70,
+  "fields": {
+    "city": 1,
+    "name": "\u0413\u0430\u0441\u0442\u0435\u043b\u043b\u043e"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 71,
+  "fields": {
+    "city": 1,
+    "name": "4-\u044f \u0421\u043e\u043a\u043e\u043b\u044c\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 72,
+  "fields": {
+    "city": 1,
+    "name": "3-\u044f \u0421\u043e\u043a\u043e\u043b\u044c\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 73,
+  "fields": {
+    "city": 1,
+    "name": "\u041f\u043e\u0442\u0435\u0448\u043d\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 74,
+  "fields": {
+    "city": 1,
+    "name": "\u041c\u0430\u0440\u0448\u0430\u043b\u0430 \u0422\u0443\u0445\u0430\u0447\u0435\u0432\u0441\u043a\u043e\u0433\u043e"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 75,
+  "fields": {
+    "city": 1,
+    "name": "\u0413\u0435\u043d\u0435\u0440\u0430\u043b\u0430 \u0411\u0435\u0440\u0437\u0430\u0440\u0438\u043d\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 76,
+  "fields": {
+    "city": 1,
+    "name": "\u0413\u0435\u043d\u0435\u0440\u0430\u043b\u0430 \u0413\u043b\u0430\u0433\u043e\u043b\u0435\u0432\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 77,
+  "fields": {
+    "city": 1,
+    "name": "\u041a\u043e\u043f\u0442\u0435\u0432\u0441\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 78,
+  "fields": {
+    "city": 1,
+    "name": "\u0412\u0443\u0447\u0435\u0442\u0438\u0447\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 79,
+  "fields": {
+    "city": 1,
+    "name": "\u0425\u043e\u0440\u043e\u0448\u0435\u0432\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 80,
+  "fields": {
+    "city": 1,
+    "name": "\u0443\u043b. \u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041a\u0430\u0437\u0430\u043d\u0435\u0446"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 81,
+  "fields": {
+    "city": 1,
+    "name": "\u041a\u043e\u0441\u0438\u043d\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 82,
+  "fields": {
+    "city": 1,
+    "name": "\u0412\u0435\u0448\u043d\u044f\u043a\u043e\u0432\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 83,
+  "fields": {
+    "city": 1,
+    "name": "\u041c\u043e\u043b\u0434\u0430\u0433\u0443\u043b\u043e\u0432\u043e\u0439"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 84,
+  "fields": {
+    "city": 1,
+    "name": "\u0420\u0435\u0443\u0442\u043e\u0432\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 85,
+  "fields": {
+    "city": 1,
+    "name": "\u041a\u0435\u0442\u0447\u0435\u0440\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 86,
+  "fields": {
+    "city": 1,
+    "name": "\u0410\u043b\u043b\u0435\u044f \u0416\u0435\u043c\u0447\u0443\u0433\u043e\u0432\u043e\u0439"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 87,
+  "fields": {
+    "city": 1,
+    "name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 88,
+  "fields": {
+    "city": 1,
+    "name": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043f\u0440-\u0442"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 89,
+  "fields": {
+    "city": 1,
+    "name": "\u041f\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 90,
+  "fields": {
+    "city": 1,
+    "name": "\u0417\u0435\u043b\u0451\u043d\u044b\u0439 \u043f\u0440-\u0442"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 91,
+  "fields": {
+    "city": 1,
+    "name": "\u0443\u043b. 1-\u044f \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 92,
+  "fields": {
+    "city": 1,
+    "name": "\u0448.\u042d\u043d\u0442\u0443\u0437\u0438\u0430\u0441\u0442\u043e\u0432"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 93,
+  "fields": {
+    "city": 1,
+    "name": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 94,
+  "fields": {
+    "city": 1,
+    "name": "\u0414\u043e\u0440\u043e\u0436\u043d\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 95,
+  "fields": {
+    "city": 1,
+    "name": "\u0429\u0451\u043b\u043a\u043e\u0432\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 96,
+  "fields": {
+    "city": 1,
+    "name": "\u0412\u0430\u0440\u0448\u0430\u0432\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 97,
+  "fields": {
+    "city": 1,
+    "name": "\u0413\u0435\u0440\u043e\u0435\u0432 \u041f\u0430\u043d\u0444\u0438\u043b\u043e\u0432\u0446\u0435\u0432"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 98,
+  "fields": {
+    "city": 1,
+    "name": "1-\u044f \u0414\u0443\u0431\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 99,
+  "fields": {
+    "city": 1,
+    "name": "\u0410\u0432\u0442\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 100,
+  "fields": {
+    "city": 1,
+    "name": "\u0410\u043a\u0430\u0434\u0435\u043c\u0438\u043a\u0430 \u0422\u0443\u043f\u043e\u043b\u0435\u0432\u0430"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 101,
+  "fields": {
+    "city": 1,
+    "name": "\u041d\u043e\u0432\u043e\u0440\u0438\u0436\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435, 22-\u0439 \u043a\u043c"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 102,
+  "fields": {
+    "city": 1,
+    "name": "\u041a\u0430\u043b\u0443\u0436\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435, 21-\u0439 \u043a\u043c"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 103,
+  "fields": {
+    "city": 1,
+    "name": "1-\u0439 \u0413\u0440\u0430\u0439\u0432\u043e\u0440\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440."
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 104,
+  "fields": {
+    "city": 1,
+    "name": "\u041b\u0435\u0432\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f"
+  }
+},
+{
+  "model": "re_app.street",
+  "pk": 105,
+  "fields": {
+    "city": 1,
+    "name": "5-\u0439 \u043f\u0440\u043e\u0435\u0437\u0434 \u041f\u043e\u0434\u0431\u0435\u043b\u044c\u0441\u043a\u043e\u0433\u043e"
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 15,
+  "fields": {
+    "trash_type": 1,
+    "station": 13
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 16,
+  "fields": {
+    "trash_type": 3,
+    "station": 13
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 17,
+  "fields": {
+    "trash_type": 2,
+    "station": 13
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 18,
+  "fields": {
+    "trash_type": 4,
+    "station": 13
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 19,
+  "fields": {
+    "trash_type": 5,
+    "station": 13
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 20,
+  "fields": {
+    "trash_type": 1,
+    "station": 14
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 21,
+  "fields": {
+    "trash_type": 1,
+    "station": 15
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 22,
+  "fields": {
+    "trash_type": 1,
+    "station": 16
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 23,
+  "fields": {
+    "trash_type": 1,
+    "station": 17
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 24,
+  "fields": {
+    "trash_type": 1,
+    "station": 18
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 25,
+  "fields": {
+    "trash_type": 1,
+    "station": 19
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 26,
+  "fields": {
+    "trash_type": 1,
+    "station": 20
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 27,
+  "fields": {
+    "trash_type": 1,
+    "station": 21
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 28,
+  "fields": {
+    "trash_type": 1,
+    "station": 22
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 29,
+  "fields": {
+    "trash_type": 1,
+    "station": 23
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 30,
+  "fields": {
+    "trash_type": 1,
+    "station": 24
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 31,
+  "fields": {
+    "trash_type": 1,
+    "station": 25
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 32,
+  "fields": {
+    "trash_type": 1,
+    "station": 26
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 33,
+  "fields": {
+    "trash_type": 5,
+    "station": 27
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 34,
+  "fields": {
+    "trash_type": 4,
+    "station": 27
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 35,
+  "fields": {
+    "trash_type": 3,
+    "station": 28
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 36,
+  "fields": {
+    "trash_type": 4,
+    "station": 28
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 37,
+  "fields": {
+    "trash_type": 3,
+    "station": 29
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 38,
+  "fields": {
+    "trash_type": 3,
+    "station": 30
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 39,
+  "fields": {
+    "trash_type": 3,
+    "station": 31
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 40,
+  "fields": {
+    "trash_type": 3,
+    "station": 32
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 41,
+  "fields": {
+    "trash_type": 3,
+    "station": 33
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 42,
+  "fields": {
+    "trash_type": 4,
+    "station": 33
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 43,
+  "fields": {
+    "trash_type": 3,
+    "station": 34
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 44,
+  "fields": {
+    "trash_type": 3,
+    "station": 35
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 45,
+  "fields": {
+    "trash_type": 3,
+    "station": 36
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 46,
+  "fields": {
+    "trash_type": 5,
+    "station": 37
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 47,
+  "fields": {
+    "trash_type": 3,
+    "station": 37
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 48,
+  "fields": {
+    "trash_type": 2,
+    "station": 37
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 49,
+  "fields": {
+    "trash_type": 2,
+    "station": 38
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 50,
+  "fields": {
+    "trash_type": 5,
+    "station": 38
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 51,
+  "fields": {
+    "trash_type": 3,
+    "station": 38
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 52,
+  "fields": {
+    "trash_type": 5,
+    "station": 39
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 53,
+  "fields": {
+    "trash_type": 3,
+    "station": 39
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 54,
+  "fields": {
+    "trash_type": 2,
+    "station": 39
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 55,
+  "fields": {
+    "trash_type": 4,
+    "station": 39
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 56,
+  "fields": {
+    "trash_type": 3,
+    "station": 40
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 57,
+  "fields": {
+    "trash_type": 4,
+    "station": 40
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 58,
+  "fields": {
+    "trash_type": 5,
+    "station": 40
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 59,
+  "fields": {
+    "trash_type": 2,
+    "station": 40
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 60,
+  "fields": {
+    "trash_type": 5,
+    "station": 41
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 61,
+  "fields": {
+    "trash_type": 4,
+    "station": 41
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 62,
+  "fields": {
+    "trash_type": 3,
+    "station": 41
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 63,
+  "fields": {
+    "trash_type": 2,
+    "station": 41
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 64,
+  "fields": {
+    "trash_type": 5,
+    "station": 42
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 65,
+  "fields": {
+    "trash_type": 4,
+    "station": 42
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 66,
+  "fields": {
+    "trash_type": 3,
+    "station": 42
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 67,
+  "fields": {
+    "trash_type": 2,
+    "station": 42
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 68,
+  "fields": {
+    "trash_type": 3,
+    "station": 43
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 69,
+  "fields": {
+    "trash_type": 2,
+    "station": 43
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 70,
+  "fields": {
+    "trash_type": 4,
+    "station": 43
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 71,
+  "fields": {
+    "trash_type": 5,
+    "station": 43
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 72,
+  "fields": {
+    "trash_type": 2,
+    "station": 44
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 73,
+  "fields": {
+    "trash_type": 4,
+    "station": 44
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 74,
+  "fields": {
+    "trash_type": 3,
+    "station": 44
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 75,
+  "fields": {
+    "trash_type": 5,
+    "station": 44
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 76,
+  "fields": {
+    "trash_type": 3,
+    "station": 45
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 77,
+  "fields": {
+    "trash_type": 4,
+    "station": 45
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 78,
+  "fields": {
+    "trash_type": 5,
+    "station": 45
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 79,
+  "fields": {
+    "trash_type": 2,
+    "station": 45
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 80,
+  "fields": {
+    "trash_type": 3,
+    "station": 46
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 81,
+  "fields": {
+    "trash_type": 4,
+    "station": 46
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 82,
+  "fields": {
+    "trash_type": 5,
+    "station": 46
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 83,
+  "fields": {
+    "trash_type": 2,
+    "station": 46
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 84,
+  "fields": {
+    "trash_type": 5,
+    "station": 47
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 85,
+  "fields": {
+    "trash_type": 4,
+    "station": 47
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 86,
+  "fields": {
+    "trash_type": 3,
+    "station": 47
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 87,
+  "fields": {
+    "trash_type": 2,
+    "station": 47
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 88,
+  "fields": {
+    "trash_type": 1,
+    "station": 47
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 89,
+  "fields": {
+    "trash_type": 4,
+    "station": 48
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 90,
+  "fields": {
+    "trash_type": 5,
+    "station": 48
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 91,
+  "fields": {
+    "trash_type": 3,
+    "station": 48
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 92,
+  "fields": {
+    "trash_type": 2,
+    "station": 48
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 93,
+  "fields": {
+    "trash_type": 5,
+    "station": 49
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 94,
+  "fields": {
+    "trash_type": 3,
+    "station": 49
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 95,
+  "fields": {
+    "trash_type": 4,
+    "station": 49
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 96,
+  "fields": {
+    "trash_type": 2,
+    "station": 49
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 97,
+  "fields": {
+    "trash_type": 2,
+    "station": 50
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 98,
+  "fields": {
+    "trash_type": 4,
+    "station": 50
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 99,
+  "fields": {
+    "trash_type": 5,
+    "station": 50
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 100,
+  "fields": {
+    "trash_type": 3,
+    "station": 50
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 101,
+  "fields": {
+    "trash_type": 5,
+    "station": 51
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 102,
+  "fields": {
+    "trash_type": 3,
+    "station": 51
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 103,
+  "fields": {
+    "trash_type": 4,
+    "station": 51
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 104,
+  "fields": {
+    "trash_type": 2,
+    "station": 51
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 105,
+  "fields": {
+    "trash_type": 5,
+    "station": 52
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 106,
+  "fields": {
+    "trash_type": 4,
+    "station": 52
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 107,
+  "fields": {
+    "trash_type": 3,
+    "station": 52
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 108,
+  "fields": {
+    "trash_type": 2,
+    "station": 52
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 109,
+  "fields": {
+    "trash_type": 5,
+    "station": 53
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 110,
+  "fields": {
+    "trash_type": 4,
+    "station": 53
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 111,
+  "fields": {
+    "trash_type": 3,
+    "station": 53
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 112,
+  "fields": {
+    "trash_type": 2,
+    "station": 53
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 113,
+  "fields": {
+    "trash_type": 5,
+    "station": 54
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 114,
+  "fields": {
+    "trash_type": 4,
+    "station": 54
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 115,
+  "fields": {
+    "trash_type": 3,
+    "station": 54
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 116,
+  "fields": {
+    "trash_type": 2,
+    "station": 54
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 117,
+  "fields": {
+    "trash_type": 5,
+    "station": 55
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 118,
+  "fields": {
+    "trash_type": 4,
+    "station": 55
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 119,
+  "fields": {
+    "trash_type": 3,
+    "station": 55
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 120,
+  "fields": {
+    "trash_type": 2,
+    "station": 55
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 121,
+  "fields": {
+    "trash_type": 5,
+    "station": 56
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 122,
+  "fields": {
+    "trash_type": 4,
+    "station": 56
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 123,
+  "fields": {
+    "trash_type": 3,
+    "station": 56
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 124,
+  "fields": {
+    "trash_type": 2,
+    "station": 56
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 125,
+  "fields": {
+    "trash_type": 4,
+    "station": 57
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 126,
+  "fields": {
+    "trash_type": 5,
+    "station": 57
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 127,
+  "fields": {
+    "trash_type": 3,
+    "station": 57
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 128,
+  "fields": {
+    "trash_type": 2,
+    "station": 57
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 129,
+  "fields": {
+    "trash_type": 5,
+    "station": 58
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 130,
+  "fields": {
+    "trash_type": 4,
+    "station": 58
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 131,
+  "fields": {
+    "trash_type": 3,
+    "station": 58
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 132,
+  "fields": {
+    "trash_type": 2,
+    "station": 58
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 133,
+  "fields": {
+    "trash_type": 5,
+    "station": 59
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 134,
+  "fields": {
+    "trash_type": 4,
+    "station": 59
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 135,
+  "fields": {
+    "trash_type": 3,
+    "station": 59
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 136,
+  "fields": {
+    "trash_type": 2,
+    "station": 59
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 137,
+  "fields": {
+    "trash_type": 5,
+    "station": 60
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 138,
+  "fields": {
+    "trash_type": 4,
+    "station": 60
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 139,
+  "fields": {
+    "trash_type": 3,
+    "station": 60
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 140,
+  "fields": {
+    "trash_type": 2,
+    "station": 60
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 141,
+  "fields": {
+    "trash_type": 5,
+    "station": 61
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 142,
+  "fields": {
+    "trash_type": 4,
+    "station": 61
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 143,
+  "fields": {
+    "trash_type": 3,
+    "station": 61
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 144,
+  "fields": {
+    "trash_type": 2,
+    "station": 61
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 145,
+  "fields": {
+    "trash_type": 5,
+    "station": 62
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 146,
+  "fields": {
+    "trash_type": 4,
+    "station": 62
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 147,
+  "fields": {
+    "trash_type": 3,
+    "station": 62
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 148,
+  "fields": {
+    "trash_type": 2,
+    "station": 62
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 149,
+  "fields": {
+    "trash_type": 5,
+    "station": 63
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 150,
+  "fields": {
+    "trash_type": 4,
+    "station": 63
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 151,
+  "fields": {
+    "trash_type": 3,
+    "station": 63
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 152,
+  "fields": {
+    "trash_type": 2,
+    "station": 63
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 153,
+  "fields": {
+    "trash_type": 2,
+    "station": 64
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 154,
+  "fields": {
+    "trash_type": 2,
+    "station": 65
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 155,
+  "fields": {
+    "trash_type": 3,
+    "station": 65
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 156,
+  "fields": {
+    "trash_type": 2,
+    "station": 66
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 157,
+  "fields": {
+    "trash_type": 2,
+    "station": 67
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 158,
+  "fields": {
+    "trash_type": 2,
+    "station": 68
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 159,
+  "fields": {
+    "trash_type": 3,
+    "station": 68
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 160,
+  "fields": {
+    "trash_type": 2,
+    "station": 69
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 161,
+  "fields": {
+    "trash_type": 3,
+    "station": 69
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 162,
+  "fields": {
+    "trash_type": 2,
+    "station": 70
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 163,
+  "fields": {
+    "trash_type": 2,
+    "station": 71
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 164,
+  "fields": {
+    "trash_type": 3,
+    "station": 71
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 165,
+  "fields": {
+    "trash_type": 2,
+    "station": 72
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 166,
+  "fields": {
+    "trash_type": 2,
+    "station": 73
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 167,
+  "fields": {
+    "trash_type": 3,
+    "station": 73
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 168,
+  "fields": {
+    "trash_type": 4,
+    "station": 74
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 169,
+  "fields": {
+    "trash_type": 2,
+    "station": 74
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 170,
+  "fields": {
+    "trash_type": 3,
+    "station": 74
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 171,
+  "fields": {
+    "trash_type": 3,
+    "station": 75
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 172,
+  "fields": {
+    "trash_type": 2,
+    "station": 75
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 173,
+  "fields": {
+    "trash_type": 2,
+    "station": 76
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 174,
+  "fields": {
+    "trash_type": 3,
+    "station": 76
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 175,
+  "fields": {
+    "trash_type": 2,
+    "station": 77
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 176,
+  "fields": {
+    "trash_type": 2,
+    "station": 78
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 177,
+  "fields": {
+    "trash_type": 2,
+    "station": 79
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 178,
+  "fields": {
+    "trash_type": 2,
+    "station": 80
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 179,
+  "fields": {
+    "trash_type": 4,
+    "station": 80
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 180,
+  "fields": {
+    "trash_type": 3,
+    "station": 80
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 181,
+  "fields": {
+    "trash_type": 5,
+    "station": 80
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 182,
+  "fields": {
+    "trash_type": 5,
+    "station": 81
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 183,
+  "fields": {
+    "trash_type": 2,
+    "station": 81
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 184,
+  "fields": {
+    "trash_type": 2,
+    "station": 82
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 185,
+  "fields": {
+    "trash_type": 3,
+    "station": 82
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 186,
+  "fields": {
+    "trash_type": 2,
+    "station": 83
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 187,
+  "fields": {
+    "trash_type": 2,
+    "station": 84
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 188,
+  "fields": {
+    "trash_type": 4,
+    "station": 84
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 189,
+  "fields": {
+    "trash_type": 2,
+    "station": 85
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 190,
+  "fields": {
+    "trash_type": 2,
+    "station": 86
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 191,
+  "fields": {
+    "trash_type": 3,
+    "station": 86
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 192,
+  "fields": {
+    "trash_type": 2,
+    "station": 87
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 193,
+  "fields": {
+    "trash_type": 2,
+    "station": 88
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 194,
+  "fields": {
+    "trash_type": 3,
+    "station": 88
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 195,
+  "fields": {
+    "trash_type": 2,
+    "station": 89
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 196,
+  "fields": {
+    "trash_type": 2,
+    "station": 90
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 197,
+  "fields": {
+    "trash_type": 2,
+    "station": 91
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 198,
+  "fields": {
+    "trash_type": 3,
+    "station": 92
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 199,
+  "fields": {
+    "trash_type": 3,
+    "station": 93
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 200,
+  "fields": {
+    "trash_type": 3,
+    "station": 94
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 201,
+  "fields": {
+    "trash_type": 3,
+    "station": 95
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 202,
+  "fields": {
+    "trash_type": 3,
+    "station": 96
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 203,
+  "fields": {
+    "trash_type": 3,
+    "station": 97
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 204,
+  "fields": {
+    "trash_type": 3,
+    "station": 98
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 205,
+  "fields": {
+    "trash_type": 3,
+    "station": 99
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 206,
+  "fields": {
+    "trash_type": 3,
+    "station": 100
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 207,
+  "fields": {
+    "trash_type": 3,
+    "station": 101
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 208,
+  "fields": {
+    "trash_type": 3,
+    "station": 102
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 209,
+  "fields": {
+    "trash_type": 4,
+    "station": 103
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 210,
+  "fields": {
+    "trash_type": 3,
+    "station": 103
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 211,
+  "fields": {
+    "trash_type": 5,
+    "station": 103
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 212,
+  "fields": {
+    "trash_type": 2,
+    "station": 103
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 213,
+  "fields": {
+    "trash_type": 5,
+    "station": 104
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 214,
+  "fields": {
+    "trash_type": 3,
+    "station": 104
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 215,
+  "fields": {
+    "trash_type": 4,
+    "station": 104
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 216,
+  "fields": {
+    "trash_type": 2,
+    "station": 104
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 217,
+  "fields": {
+    "trash_type": 4,
+    "station": 105
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 218,
+  "fields": {
+    "trash_type": 5,
+    "station": 105
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 219,
+  "fields": {
+    "trash_type": 3,
+    "station": 105
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 220,
+  "fields": {
+    "trash_type": 2,
+    "station": 105
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 221,
+  "fields": {
+    "trash_type": 3,
+    "station": 106
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 222,
+  "fields": {
+    "trash_type": 2,
+    "station": 106
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 223,
+  "fields": {
+    "trash_type": 4,
+    "station": 106
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 224,
+  "fields": {
+    "trash_type": 5,
+    "station": 106
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 225,
+  "fields": {
+    "trash_type": 3,
+    "station": 107
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 226,
+  "fields": {
+    "trash_type": 4,
+    "station": 107
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 227,
+  "fields": {
+    "trash_type": 5,
+    "station": 107
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 228,
+  "fields": {
+    "trash_type": 2,
+    "station": 107
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 229,
+  "fields": {
+    "trash_type": 4,
+    "station": 108
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 230,
+  "fields": {
+    "trash_type": 5,
+    "station": 108
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 231,
+  "fields": {
+    "trash_type": 3,
+    "station": 108
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 232,
+  "fields": {
+    "trash_type": 2,
+    "station": 108
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 233,
+  "fields": {
+    "trash_type": 5,
+    "station": 109
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 234,
+  "fields": {
+    "trash_type": 4,
+    "station": 109
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 235,
+  "fields": {
+    "trash_type": 3,
+    "station": 109
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 236,
+  "fields": {
+    "trash_type": 2,
+    "station": 109
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 237,
+  "fields": {
+    "trash_type": 5,
+    "station": 110
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 238,
+  "fields": {
+    "trash_type": 3,
+    "station": 110
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 239,
+  "fields": {
+    "trash_type": 4,
+    "station": 110
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 240,
+  "fields": {
+    "trash_type": 2,
+    "station": 110
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 241,
+  "fields": {
+    "trash_type": 4,
+    "station": 111
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 242,
+  "fields": {
+    "trash_type": 5,
+    "station": 111
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 243,
+  "fields": {
+    "trash_type": 4,
+    "station": 112
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 244,
+  "fields": {
+    "trash_type": 3,
+    "station": 112
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 245,
+  "fields": {
+    "trash_type": 6,
+    "station": 113
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 246,
+  "fields": {
+    "trash_type": 6,
+    "station": 114
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 247,
+  "fields": {
+    "trash_type": 6,
+    "station": 115
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 248,
+  "fields": {
+    "trash_type": 6,
+    "station": 116
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 249,
+  "fields": {
+    "trash_type": 6,
+    "station": 117
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 250,
+  "fields": {
+    "trash_type": 6,
+    "station": 118
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 251,
+  "fields": {
+    "trash_type": 6,
+    "station": 119
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 252,
+  "fields": {
+    "trash_type": 6,
+    "station": 120
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 253,
+  "fields": {
+    "trash_type": 6,
+    "station": 121
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 254,
+  "fields": {
+    "trash_type": 6,
+    "station": 122
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 255,
+  "fields": {
+    "trash_type": 6,
+    "station": 123
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 256,
+  "fields": {
+    "trash_type": 6,
+    "station": 124
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 257,
+  "fields": {
+    "trash_type": 6,
+    "station": 125
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 258,
+  "fields": {
+    "trash_type": 6,
+    "station": 126
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 259,
+  "fields": {
+    "trash_type": 1,
+    "station": 126
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 260,
+  "fields": {
+    "trash_type": 6,
+    "station": 127
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 261,
+  "fields": {
+    "trash_type": 1,
+    "station": 127
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 262,
+  "fields": {
+    "trash_type": 6,
+    "station": 128
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 263,
+  "fields": {
+    "trash_type": 6,
+    "station": 129
+  }
+},
+{
+  "model": "re_app.trashstation",
+  "pk": 264,
+  "fields": {
+    "trash_type": 6,
+    "station": 130
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 13,
+  "fields": {
+    "name": "\u0421\u0444\u0435\u0440\u0430 \u044d\u043a\u043e\u043b\u043e\u0433\u0438\u0438",
+    "telephone": "+7 (495) 223-16-15",
+    "street": 6,
+    "house": 10,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.752132,
+    "position_y": 37.670847,
+    "add_date": "2016-07-07T13:32:18.511Z",
+    "update_date": "2016-07-07T13:32:18.511Z",
+    "description": "http://se8.su",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 14,
+  "fields": {
+    "name": "\u0421\u0430\u043b\u043e\u043d \u041c\u0422\u0421",
+    "telephone": "",
+    "street": 7,
+    "house": 66,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.738238,
+    "position_y": 37.720629,
+    "add_date": "2016-07-07T13:38:19.702Z",
+    "update_date": "2016-07-07T13:38:19.702Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 15,
+  "fields": {
+    "name": "\u0421\u0430\u043b\u043e\u043d \u041c\u0422\u0421",
+    "telephone": "",
+    "street": 8,
+    "house": 8,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.695873,
+    "position_y": 37.665684,
+    "add_date": "2016-07-07T13:39:01.611Z",
+    "update_date": "2016-07-07T13:39:01.611Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 16,
+  "fields": {
+    "name": "\u0428\u043a\u043e\u043b\u0430 \u21161989",
+    "telephone": "+7-903-9671883",
+    "street": 9,
+    "house": 45,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.662136,
+    "position_y": 37.773472,
+    "add_date": "2016-07-07T13:41:56.500Z",
+    "update_date": "2016-07-07T13:41:56.500Z",
+    "description": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043d\u0430 \u043f\u0435\u0440\u0432\u043e\u043c \u044d\u0442\u0430\u0436\u0435 \u0433\u043b\u0430\u0432\u043d\u043e\u0433\u043e \u0437\u0434\u0430\u043d\u0438\u044f \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430 \u21161989.",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 17,
+  "fields": {
+    "name": "\u0411\u044e\u0440\u043e \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u043e\u0432 \u041a \u0432\u0430\u0448\u0438\u043c \u0443\u0441\u043b\u0443\u0433\u0430\u043c",
+    "telephone": "+7-495-2150248",
+    "street": 10,
+    "house": 34,
+    "building": 3,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.718216,
+    "position_y": 37.607742,
+    "add_date": "2016-07-07T13:43:37.210Z",
+    "update_date": "2016-07-07T13:43:37.210Z",
+    "description": "\u0411\u0438\u0437\u043d\u0435\u0441-\u0446\u0435\u043d\u0442\u0440 \"\u041c\u0430\u0442\u0440\u0438\u043a\u0441\u043e\u0444\u0438\u0441\", \u043e\u0444\u0438\u0441 217",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 18,
+  "fields": {
+    "name": "\u0416\u0438\u043b\u043e\u0439 \u0434\u043e\u043c",
+    "telephone": "",
+    "street": 11,
+    "house": 23,
+    "building": 2,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.668004,
+    "position_y": 37.451372,
+    "add_date": "2016-07-07T13:44:36.511Z",
+    "update_date": "2016-07-07T13:44:36.511Z",
+    "description": "\u041c\u043e\u0436\u043d\u043e \u043f\u0435\u0440\u0435\u0434\u0430\u0442\u044c \u043a\u043e\u043d\u0441\u044c\u0435\u0440\u0436\u0443, \u043f\u043e\u0434\u044a\u0435\u0437\u0434 9",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 19,
+  "fields": {
+    "name": "\u0422\u0426 \"\u0421\u0435\u0434\u044c\u043c\u043e\u0439 \u043a\u043e\u043d\u0442\u0438\u043d\u0435\u043d\u0442\"",
+    "telephone": "",
+    "street": 12,
+    "house": 112,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.863711,
+    "position_y": 37.466673,
+    "add_date": "2016-07-07T13:45:46.509Z",
+    "update_date": "2016-07-07T13:45:46.509Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 20,
+  "fields": {
+    "name": "\u042d\u043b\u044c\u0434\u043e\u0440\u0430\u0434\u043e",
+    "telephone": "",
+    "street": 13,
+    "house": 2,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.574957,
+    "position_y": 37.579268,
+    "add_date": "2016-07-07T13:46:43.608Z",
+    "update_date": "2016-07-07T13:46:43.608Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 21,
+  "fields": {
+    "name": "Pleer.ru",
+    "telephone": "8 (495) 775-04-75",
+    "street": 14,
+    "house": 4,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.708546,
+    "position_y": 37.656578,
+    "add_date": "2016-07-07T13:47:38.910Z",
+    "update_date": "2016-07-07T13:47:38.910Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 22,
+  "fields": {
+    "name": "\u0422\u0426 \"\u0427\u0435\u0440\u0435\u043c\u0443\u0448\u043a\u0438\"",
+    "telephone": "",
+    "street": 15,
+    "house": 56,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.6696,
+    "position_y": 37.553851,
+    "add_date": "2016-07-07T13:55:40.307Z",
+    "update_date": "2016-07-07T13:55:40.307Z",
+    "description": "\u0412 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \"\u042d\u043b\u044c\u0434\u043e\u0440\u0430\u0434\u043e\"",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 23,
+  "fields": {
+    "name": "\u0422\u0426 \"\u041f\u043e\u0434\u0441\u043e\u043b\u043d\u0443\u0445\"",
+    "telephone": "",
+    "street": 16,
+    "house": 9,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.809202,
+    "position_y": 37.722264,
+    "add_date": "2016-07-07T13:56:36.698Z",
+    "update_date": "2016-07-07T13:56:36.698Z",
+    "description": "\u0412 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \"\u042d\u043b\u044c\u0434\u043e\u0440\u0430\u0434\u043e\"",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 24,
+  "fields": {
+    "name": "\u0422\u041a \"\u041b-153\"",
+    "telephone": "",
+    "street": 17,
+    "house": 153,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.658806,
+    "position_y": 37.741495,
+    "add_date": "2016-07-07T13:57:27.213Z",
+    "update_date": "2016-07-07T13:57:27.213Z",
+    "description": "\u0412 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \"\u042d\u043b\u044c\u0434\u043e\u0440\u0430\u0434\u043e\"",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 25,
+  "fields": {
+    "name": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \"\u041c\u043e\u043b\u043e\u0442\u043e\u043a\"",
+    "telephone": "+79654103970",
+    "street": 18,
+    "house": 5,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.858373,
+    "position_y": 37.672648,
+    "add_date": "2016-07-07T13:58:38.502Z",
+    "update_date": "2016-07-07T13:58:38.502Z",
+    "description": "http://hoz-molotok.ru/",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 26,
+  "fields": {
+    "name": "\u0422\u0420\u0426 \"\u041f\u0440\u0430\u0437\u0434\u043d\u0438\u043a\"",
+    "telephone": "",
+    "street": 19,
+    "house": 17,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.826672,
+    "position_y": 37.444962,
+    "add_date": "2016-07-07T14:05:48.601Z",
+    "update_date": "2016-07-07T14:05:48.601Z",
+    "description": "\u0412 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \"\u042d\u043b\u044c\u0434\u043e\u0440\u0430\u0434\u043e\"",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 27,
+  "fields": {
+    "name": "\u0414\u0438\u043a\u0441\u0438",
+    "telephone": "",
+    "street": 20,
+    "house": 2,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.825829,
+    "position_y": 37.567694,
+    "add_date": "2016-07-08T04:24:12.701Z",
+    "update_date": "2016-07-08T04:24:12.701Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 28,
+  "fields": {
+    "name": "\u0414\u0438\u043a\u0441\u0438",
+    "telephone": "",
+    "street": 21,
+    "house": 37,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.831183,
+    "position_y": 37.571691,
+    "add_date": "2016-07-08T04:27:33.904Z",
+    "update_date": "2016-07-08T04:27:33.904Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 29,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 22,
+    "house": 5,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.829527,
+    "position_y": 37.593907,
+    "add_date": "2016-07-08T04:31:03.701Z",
+    "update_date": "2016-07-08T04:31:03.701Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 30,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 23,
+    "house": 13,
+    "building": 2,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.837252,
+    "position_y": 37.663351,
+    "add_date": "2016-07-08T10:22:37.415Z",
+    "update_date": "2016-07-08T10:22:37.415Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 31,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 24,
+    "house": 2,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.834504,
+    "position_y": 37.666106,
+    "add_date": "2016-07-08T10:23:38.506Z",
+    "update_date": "2016-07-08T10:23:38.506Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 32,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 24,
+    "house": 6,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.835777,
+    "position_y": 37.667675,
+    "add_date": "2016-07-08T10:24:15.311Z",
+    "update_date": "2016-07-08T10:24:15.311Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 33,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 25,
+    "house": 196,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.837019,
+    "position_y": 37.661268,
+    "add_date": "2016-07-08T10:25:40.813Z",
+    "update_date": "2016-07-08T10:25:40.813Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 34,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 25,
+    "house": 192,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.836592,
+    "position_y": 37.659156,
+    "add_date": "2016-07-08T10:26:12.211Z",
+    "update_date": "2016-07-08T10:26:12.211Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 35,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 25,
+    "house": 165,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.835945,
+    "position_y": 37.654869,
+    "add_date": "2016-07-08T10:26:58.516Z",
+    "update_date": "2016-07-08T10:26:58.516Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 36,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 26,
+    "house": 17,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.788283,
+    "position_y": 37.67137,
+    "add_date": "2016-07-08T10:28:39.710Z",
+    "update_date": "2016-07-08T10:28:39.710Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 37,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u042d\u043a\u043e-\u041b\u0430\u0439\u043d\"",
+    "telephone": "",
+    "street": 27,
+    "house": 3,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.762587,
+    "position_y": 37.570294,
+    "add_date": "2016-07-08T10:33:52.109Z",
+    "update_date": "2016-07-08T10:33:52.109Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 38,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u042d\u043a\u043e-\u041b\u0430\u0439\u043d\"",
+    "telephone": "",
+    "street": 28,
+    "house": 5,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.763608,
+    "position_y": 37.566956,
+    "add_date": "2016-07-08T10:35:04.606Z",
+    "update_date": "2016-07-08T10:35:04.606Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 39,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u042d\u043a\u043e-\u041b\u0430\u0439\u043d\"",
+    "telephone": "",
+    "street": 29,
+    "house": 5,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.795987,
+    "position_y": 37.518321,
+    "add_date": "2016-07-08T10:36:44.007Z",
+    "update_date": "2016-07-08T10:36:44.007Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 40,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u042d\u043a\u043e-\u041b\u0430\u0439\u043d\"",
+    "telephone": "",
+    "street": 30,
+    "house": 3,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.798624,
+    "position_y": 37.529118,
+    "add_date": "2016-07-08T10:38:17.114Z",
+    "update_date": "2016-07-08T10:38:17.114Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 41,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u0421\u043f\u0435\u0446\u0442\u0440\u0430\u043d\u0441\"",
+    "telephone": "",
+    "street": 31,
+    "house": 3,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.846748,
+    "position_y": 37.446411,
+    "add_date": "2016-07-08T10:40:34.505Z",
+    "update_date": "2016-07-08T10:40:34.505Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 42,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u0421\u043f\u0435\u0446\u0442\u0440\u0430\u043d\u0441\"",
+    "telephone": "",
+    "street": 32,
+    "house": 52,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.848658,
+    "position_y": 37.440319,
+    "add_date": "2016-07-08T10:41:50.813Z",
+    "update_date": "2016-07-08T10:41:50.813Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 43,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u042d\u043a\u043e-\u041b\u0430\u0439\u043d\"",
+    "telephone": "",
+    "street": 21,
+    "house": 3,
+    "building": 2,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.811384,
+    "position_y": 37.575112,
+    "add_date": "2016-07-08T10:44:00.410Z",
+    "update_date": "2016-07-08T10:44:00.410Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 44,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u042d\u043a\u043e-\u041b\u0430\u0439\u043d\"",
+    "telephone": "",
+    "street": 33,
+    "house": 6,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.810011,
+    "position_y": 37.570016,
+    "add_date": "2016-07-08T10:45:53.709Z",
+    "update_date": "2016-07-08T10:45:53.709Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 45,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u042d\u043a\u043e-\u041b\u0430\u0439\u043d\"",
+    "telephone": "",
+    "street": 34,
+    "house": 9,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.812806,
+    "position_y": 37.571329,
+    "add_date": "2016-07-08T10:47:28.015Z",
+    "update_date": "2016-07-08T10:47:28.015Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 46,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u042d\u043a\u043e-\u041b\u0430\u0439\u043d\"",
+    "telephone": "",
+    "street": 35,
+    "house": 1,
+    "building": 3,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.81042,
+    "position_y": 37.563947,
+    "add_date": "2016-07-08T10:49:13.313Z",
+    "update_date": "2016-07-08T10:49:13.313Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 47,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u042d\u043a\u043e-\u041b\u0430\u0439\u043d\"",
+    "telephone": "",
+    "street": 35,
+    "house": 1,
+    "building": 2,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.810651,
+    "position_y": 37.56478,
+    "add_date": "2016-07-08T10:50:20.212Z",
+    "update_date": "2016-07-08T10:50:20.212Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 48,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u041c\u0421\u041a-\u041d\u0422\"",
+    "telephone": "",
+    "street": 36,
+    "house": 1,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.663265,
+    "position_y": 37.743935,
+    "add_date": "2016-07-08T10:52:44.713Z",
+    "update_date": "2016-07-08T10:52:44.713Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 49,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u041c\u0421\u041a-\u041d\u0422\"",
+    "telephone": "",
+    "street": 9,
+    "house": 25,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.670606,
+    "position_y": 37.765748,
+    "add_date": "2016-07-08T10:54:22.311Z",
+    "update_date": "2016-07-08T10:54:22.311Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 50,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u041c\u0421\u041a-\u041d\u0422\"",
+    "telephone": "",
+    "street": 37,
+    "house": 45,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.672577,
+    "position_y": 37.794633,
+    "add_date": "2016-07-08T10:55:32.720Z",
+    "update_date": "2016-07-08T10:55:32.720Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 51,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u041c\u0421\u041a-\u041d\u0422\"",
+    "telephone": "",
+    "street": 38,
+    "house": 8,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.675238,
+    "position_y": 37.810826,
+    "add_date": "2016-07-08T10:57:05.107Z",
+    "update_date": "2016-07-08T10:57:05.107Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 52,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u041c\u0421\u041a-\u041d\u0422\"",
+    "telephone": "",
+    "street": 39,
+    "house": 14,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.677739,
+    "position_y": 37.772683,
+    "add_date": "2016-07-08T10:58:56.416Z",
+    "update_date": "2016-07-08T10:58:56.416Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 53,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u041c\u0421\u041a-\u041d\u0422\"",
+    "telephone": "",
+    "street": 40,
+    "house": 46,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.678695,
+    "position_y": 37.727762,
+    "add_date": "2016-07-08T11:00:31.312Z",
+    "update_date": "2016-07-08T11:00:31.312Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 54,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u041c\u0421\u041a-\u041d\u0422\"",
+    "telephone": "",
+    "street": 40,
+    "house": 32,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.685498,
+    "position_y": 37.731007,
+    "add_date": "2016-07-08T11:01:34.307Z",
+    "update_date": "2016-07-08T11:01:34.307Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 55,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u041c\u0421\u041a-\u041d\u0422\"",
+    "telephone": "",
+    "street": 41,
+    "house": 10,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.65345,
+    "position_y": 37.717846,
+    "add_date": "2016-07-08T11:02:57.213Z",
+    "update_date": "2016-07-08T11:02:57.213Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 56,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u041c\u0421\u041a-\u041d\u0422\"",
+    "telephone": "",
+    "street": 42,
+    "house": 29,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.644494,
+    "position_y": 37.710584,
+    "add_date": "2016-07-08T11:03:59.909Z",
+    "update_date": "2016-07-08T11:03:59.910Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 57,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u041c\u0421\u041a-\u041d\u0422\"",
+    "telephone": "",
+    "street": 43,
+    "house": 26,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.646025,
+    "position_y": 37.723059,
+    "add_date": "2016-07-08T11:04:55.503Z",
+    "update_date": "2016-07-08T11:04:55.503Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 58,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u041c\u0421\u041a-\u041d\u0422\"",
+    "telephone": "",
+    "street": 43,
+    "house": 36,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.645842,
+    "position_y": 37.73461,
+    "add_date": "2016-07-08T11:05:41.921Z",
+    "update_date": "2016-07-08T11:05:41.921Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 59,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u041c\u0421\u041a-\u041d\u0422\"",
+    "telephone": "",
+    "street": 43,
+    "house": 29,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.649258,
+    "position_y": 37.736185,
+    "add_date": "2016-07-08T11:06:19.919Z",
+    "update_date": "2016-07-08T11:06:19.919Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 60,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u041c\u0421\u041a-\u041d\u0422\"",
+    "telephone": "",
+    "street": 44,
+    "house": 16,
+    "building": 2,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.711562,
+    "position_y": 37.793746,
+    "add_date": "2016-07-08T11:08:43.009Z",
+    "update_date": "2016-07-08T11:08:43.009Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 61,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u041c\u0421\u041a-\u041d\u0422\"",
+    "telephone": "",
+    "street": 45,
+    "house": 14,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.730882,
+    "position_y": 37.751983,
+    "add_date": "2016-07-08T11:10:58.202Z",
+    "update_date": "2016-07-08T11:10:58.202Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 62,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u041c\u0421\u041a-\u041d\u0422\"",
+    "telephone": "",
+    "street": 46,
+    "house": 25,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.730305,
+    "position_y": 37.746113,
+    "add_date": "2016-07-08T11:13:00.818Z",
+    "update_date": "2016-07-08T11:13:00.818Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 63,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u041c\u0421\u041a-\u041d\u0422\"",
+    "telephone": "",
+    "street": 46,
+    "house": 45,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.726524,
+    "position_y": 37.760847,
+    "add_date": "2016-07-08T11:13:40.113Z",
+    "update_date": "2016-07-08T11:13:40.113Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 64,
+  "fields": {
+    "name": "\u041c\u043e\u0441\u043a\u0432\u0430\u0412\u0442\u043e\u0440\u043c",
+    "telephone": "",
+    "street": 3,
+    "house": 18,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.581356,
+    "position_y": 37.629523,
+    "add_date": "2016-07-09T05:11:10.115Z",
+    "update_date": "2016-07-09T05:11:10.115Z",
+    "description": "mvtorma.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 65,
+  "fields": {
+    "name": "\u041f\u0440\u0438\u0451\u043c \u0412\u0442\u043e\u0440\u0441\u044b\u0440\u044c\u044f",
+    "telephone": "",
+    "street": 47,
+    "house": 25,
+    "building": 13,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.653428,
+    "position_y": 37.62541,
+    "add_date": "2016-07-09T05:15:10.720Z",
+    "update_date": "2016-07-09T05:15:10.720Z",
+    "description": "priem-makulaturi.com",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 66,
+  "fields": {
+    "name": "\u041f\u0440\u0438\u0435\u043c \u041c\u0430\u043a\u0443\u043b\u0430\u0442\u0443\u0440\u044b",
+    "telephone": "",
+    "street": 48,
+    "house": 6,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.674545,
+    "position_y": 37.638221,
+    "add_date": "2016-07-09T05:17:23.611Z",
+    "update_date": "2016-07-09T05:17:23.611Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 67,
+  "fields": {
+    "name": "Re-paper",
+    "telephone": "",
+    "street": 49,
+    "house": 52,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.629089,
+    "position_y": 37.64418,
+    "add_date": "2016-07-09T05:19:27.509Z",
+    "update_date": "2016-07-09T05:19:27.509Z",
+    "description": "re-paper.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 68,
+  "fields": {
+    "name": "\u041e\u041e\u041e \u00ab\u041f\u0420\u041a\u00bb",
+    "telephone": "",
+    "street": 50,
+    "house": 84,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.665128,
+    "position_y": 37.478692,
+    "add_date": "2016-07-09T05:23:25.703Z",
+    "update_date": "2016-07-09T05:23:25.703Z",
+    "description": "prk-inc.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 69,
+  "fields": {
+    "name": "\u042d\u043a\u043e\u043f\u0440\u0435\u0441\u0441",
+    "telephone": "",
+    "street": 51,
+    "house": 5,
+    "building": 38,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.69566,
+    "position_y": 37.459937,
+    "add_date": "2016-07-09T05:26:17.217Z",
+    "update_date": "2016-07-09T05:26:17.217Z",
+    "description": "http://ecopress.pro",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 70,
+  "fields": {
+    "name": "\u0420\u0443\u0421\u043c\u0430\u043a",
+    "telephone": "",
+    "street": 52,
+    "house": 34,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.690685,
+    "position_y": 37.426894,
+    "add_date": "2016-07-09T05:28:32.410Z",
+    "update_date": "2016-07-09T05:28:32.410Z",
+    "description": "http://rus-mak.ru/",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 71,
+  "fields": {
+    "name": "\u041f\u0440\u043e\u043c\u043e-\u041a\u0430\u0440\u0442\u0430",
+    "telephone": "",
+    "street": 53,
+    "house": 5,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.70799,
+    "position_y": 37.443436,
+    "add_date": "2016-07-09T05:30:41.017Z",
+    "update_date": "2016-07-09T05:30:41.017Z",
+    "description": "promo-kart.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 72,
+  "fields": {
+    "name": "\u041e\u041e\u041e \u041f\u0417\u041f\u0412\u0421 \u00ab\u041f\u0420\u0415\u0421\u041d\u042f\u00bb",
+    "telephone": "",
+    "street": 53,
+    "house": 10,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.71187,
+    "position_y": 37.444144,
+    "add_date": "2016-07-09T05:32:15.811Z",
+    "update_date": "2016-07-09T05:32:15.812Z",
+    "description": "pzp-presnya.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 73,
+  "fields": {
+    "name": "\u0413\u043b\u0430\u0432\u0432\u0442\u043e\u0440",
+    "telephone": "",
+    "street": 51,
+    "house": 5,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.69566,
+    "position_y": 37.459937,
+    "add_date": "2016-07-09T05:33:50.214Z",
+    "update_date": "2016-07-09T05:33:50.214Z",
+    "description": "glavvtor.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 74,
+  "fields": {
+    "name": "\u041b\u044e\u043a\u0441-\u042d\u043a\u043e \u0421\u0435\u0440\u0432\u0438\u0441",
+    "telephone": "",
+    "street": 54,
+    "house": 7,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.745426,
+    "position_y": 37.603953,
+    "add_date": "2016-07-09T05:39:48.218Z",
+    "update_date": "2016-07-09T05:39:48.218Z",
+    "description": "luxeko.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 75,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u0417\u0432\u0435\u0437\u0434\u0430\"",
+    "telephone": "",
+    "street": 55,
+    "house": 2,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.725178,
+    "position_y": 37.396931,
+    "add_date": "2016-07-09T05:42:02.103Z",
+    "update_date": "2016-07-09T05:42:02.103Z",
+    "description": "p-z-p.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 76,
+  "fields": {
+    "name": "\u0411\u0443\u043c\u043e\u0442\u0445\u043e\u0434\u044b",
+    "telephone": "",
+    "street": 56,
+    "house": 41,
+    "building": 33,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.728597,
+    "position_y": 37.692856,
+    "add_date": "2016-07-09T05:48:04.711Z",
+    "update_date": "2016-07-09T05:48:04.711Z",
+    "description": "\u0431\u0443\u043c\u043e\u0442\u0445\u043e\u0434\u044b.\u0440\u0444",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 77,
+  "fields": {
+    "name": "\u0417\u0410\u041e \u041f\u0417\u041f \"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u043e\u0435\"",
+    "telephone": "",
+    "street": 57,
+    "house": 19,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.706523,
+    "position_y": 37.702968,
+    "add_date": "2016-07-09T05:50:09.211Z",
+    "update_date": "2016-07-09T05:50:09.211Z",
+    "description": "1makulatura.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 78,
+  "fields": {
+    "name": "\u0413\u043b\u0430\u0432\u0421\u043d\u0430\u0431",
+    "telephone": "",
+    "street": 57,
+    "house": 27,
+    "building": 7,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.707782,
+    "position_y": 37.692823,
+    "add_date": "2016-07-09T05:51:18.710Z",
+    "update_date": "2016-07-09T05:51:18.710Z",
+    "description": "glavsnab.msk.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 79,
+  "fields": {
+    "name": "\u0421\u043b\u0430\u0432\u043f\u0430\u043f\u0435\u0440",
+    "telephone": "",
+    "street": 17,
+    "house": 72,
+    "building": 10,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.66883,
+    "position_y": 37.739078,
+    "add_date": "2016-07-09T05:53:47.710Z",
+    "update_date": "2016-07-09T05:53:47.711Z",
+    "description": "slavpaper.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 80,
+  "fields": {
+    "name": "\u0417\u0410\u041e \"\u0412\u0422\u041e\u0420\u0421\u042b\u0420\u042c\u0401\u041f\u0415\u0420\u0415\u0420\u0410\u0411\u041e\u0422\u041a\u0410\"",
+    "telephone": "",
+    "street": 58,
+    "house": 5,
+    "building": 3,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.779274,
+    "position_y": 37.658028,
+    "add_date": "2016-07-09T05:56:48.220Z",
+    "update_date": "2016-07-09T05:56:48.220Z",
+    "description": "vtorsp.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 81,
+  "fields": {
+    "name": "\u0427\u0438\u0441\u0442\u044b\u0439 \u041b\u0438\u0441\u0442",
+    "telephone": "",
+    "street": 59,
+    "house": 22,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.792255,
+    "position_y": 37.778653,
+    "add_date": "2016-07-09T05:59:05.715Z",
+    "update_date": "2016-07-09T05:59:05.715Z",
+    "description": "\u0432\u0442\u043e\u0440\u0441\u044b\u0440\u044c\u0435-\u043f\u0440\u0438\u0435\u043c.\u0440\u0444",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 82,
+  "fields": {
+    "name": "\u041f\u0440\u0430\u0439\u0434 \u042d\u043d\u0442\u0435\u0440\u043f\u0440\u0430\u0439\u0437\u0438\u0441",
+    "telephone": "",
+    "street": 60,
+    "house": 4,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.818399,
+    "position_y": 37.752053,
+    "add_date": "2016-07-09T06:01:23.515Z",
+    "update_date": "2016-07-09T06:01:23.515Z",
+    "description": "prideeco.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 83,
+  "fields": {
+    "name": "\u0410\u043b\u044c\u0444\u0430\u043a\u043e\u043c",
+    "telephone": "",
+    "street": 61,
+    "house": 16,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.839509,
+    "position_y": 37.670848,
+    "add_date": "2016-07-09T06:03:58.512Z",
+    "update_date": "2016-07-09T06:03:58.512Z",
+    "description": "bumagavtor.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 84,
+  "fields": {
+    "name": "\u0412\u0442\u043e\u0440\u0438\u0447\u043a\u043024",
+    "telephone": "",
+    "street": 61,
+    "house": 9,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.841288,
+    "position_y": 37.677359,
+    "add_date": "2016-07-09T06:06:40.717Z",
+    "update_date": "2016-07-09T06:06:40.717Z",
+    "description": "\u0432\u0442\u043e\u0440\u0438\u0447\u043a\u043024.\u0440\u0444",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 85,
+  "fields": {
+    "name": "\u0411\u0443\u043c\u0421\u0442\u0440\u0435\u0439\u0447",
+    "telephone": "",
+    "street": 62,
+    "house": 129,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.876937,
+    "position_y": 37.717071,
+    "add_date": "2016-07-09T06:08:01.712Z",
+    "update_date": "2016-07-09T06:08:01.712Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 86,
+  "fields": {
+    "name": "\u042d\u043a\u043e\u0432\u0442\u043e\u0440",
+    "telephone": "",
+    "street": 63,
+    "house": 10,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.875542,
+    "position_y": 37.6711,
+    "add_date": "2016-07-09T06:10:24.209Z",
+    "update_date": "2016-07-09T06:10:24.209Z",
+    "description": "ecovtor.org",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 87,
+  "fields": {
+    "name": "\u0412\u0442\u043e\u0440\u041f\u0440\u043e",
+    "telephone": "",
+    "street": 64,
+    "house": 24,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.870607,
+    "position_y": 37.667627,
+    "add_date": "2016-07-09T06:12:41.214Z",
+    "update_date": "2016-07-09T06:12:41.214Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 88,
+  "fields": {
+    "name": "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u0421\u043e\u0444\u0438\u044f",
+    "telephone": "",
+    "street": 65,
+    "house": 31,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.887669,
+    "position_y": 37.643459,
+    "add_date": "2016-07-09T06:14:49.313Z",
+    "update_date": "2016-07-09T06:15:02.706Z",
+    "description": "http://ecoftor.ru/",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 89,
+  "fields": {
+    "name": "\u0422\u0435\u0445\u043d\u0438\u043c\u044d\u043a\u0441",
+    "telephone": "",
+    "street": 66,
+    "house": 3,
+    "building": 3,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.888542,
+    "position_y": 37.574259,
+    "add_date": "2016-07-09T07:55:13.811Z",
+    "update_date": "2016-07-09T07:55:13.811Z",
+    "description": "tehnimex.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 90,
+  "fields": {
+    "name": "\u041f\u0417\u041f \u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u0441\u043a\u043e\u0435",
+    "telephone": "",
+    "street": 67,
+    "house": 1,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.846564,
+    "position_y": 37.565359,
+    "add_date": "2016-07-09T07:57:38.408Z",
+    "update_date": "2016-07-09T07:58:30.715Z",
+    "description": "pzp1.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 91,
+  "fields": {
+    "name": "\u041f\u0443\u043d\u043a\u0442 \u043f\u0440\u0438\u0435\u043c\u0430 \u043c\u0430\u043a\u0443\u043b\u0430\u0442\u0443\u0440\u044b",
+    "telephone": "",
+    "street": 68,
+    "house": 31,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.825927,
+    "position_y": 37.513448,
+    "add_date": "2016-07-09T08:01:01.405Z",
+    "update_date": "2016-07-09T08:01:01.405Z",
+    "description": "7308548.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 92,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 69,
+    "house": 38,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.802776,
+    "position_y": 37.722039,
+    "add_date": "2016-07-09T08:04:43.715Z",
+    "update_date": "2016-07-09T08:04:43.715Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 93,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 70,
+    "house": 41,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.783182,
+    "position_y": 37.696164,
+    "add_date": "2016-07-10T09:28:59.008Z",
+    "update_date": "2016-07-10T09:28:59.008Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 94,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 70,
+    "house": 14,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.784517,
+    "position_y": 37.686466,
+    "add_date": "2016-07-10T09:29:34.909Z",
+    "update_date": "2016-07-10T09:29:34.909Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 95,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 71,
+    "house": 1,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.784844,
+    "position_y": 37.684634,
+    "add_date": "2016-07-10T09:30:56.816Z",
+    "update_date": "2016-07-10T09:30:56.816Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 96,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 70,
+    "house": 6,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.786241,
+    "position_y": 37.682334,
+    "add_date": "2016-07-10T09:31:42.316Z",
+    "update_date": "2016-07-10T09:31:42.316Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 97,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 72,
+    "house": 4,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.787127,
+    "position_y": 37.685883,
+    "add_date": "2016-07-10T09:32:56.416Z",
+    "update_date": "2016-07-10T09:32:56.417Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 98,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 72,
+    "house": 7,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.787476,
+    "position_y": 37.685221,
+    "add_date": "2016-07-10T09:33:18.605Z",
+    "update_date": "2016-07-10T09:33:18.605Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 99,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 73,
+    "house": 2,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.796576,
+    "position_y": 37.705031,
+    "add_date": "2016-07-10T09:34:43.314Z",
+    "update_date": "2016-07-10T09:34:43.314Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 100,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 69,
+    "house": 35,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.803513,
+    "position_y": 37.720001,
+    "add_date": "2016-07-10T09:36:02.505Z",
+    "update_date": "2016-07-10T09:36:02.505Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 101,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 16,
+    "house": 24,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.820654,
+    "position_y": 37.751512,
+    "add_date": "2016-07-10T09:37:05.213Z",
+    "update_date": "2016-07-10T09:37:05.213Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 102,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u041e\u041e\u041e \"\u0425\u0430\u0440\u0442\u0438\u044f\"",
+    "telephone": "",
+    "street": 16,
+    "house": 25,
+    "building": 10,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.827892,
+    "position_y": 37.758319,
+    "add_date": "2016-07-10T09:38:12.418Z",
+    "update_date": "2016-07-10T09:38:12.418Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 103,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u0421\u043f\u0435\u0446\u0442\u0440\u0430\u043d\u0441\"",
+    "telephone": "",
+    "street": 74,
+    "house": 22,
+    "building": 3,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.785664,
+    "position_y": 37.477726,
+    "add_date": "2016-07-10T09:41:18.315Z",
+    "update_date": "2016-07-10T09:41:18.315Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 104,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u0421\u043f\u0435\u0446\u0442\u0440\u0430\u043d\u0441\"",
+    "telephone": "",
+    "street": 74,
+    "house": 40,
+    "building": 2,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.785868,
+    "position_y": 37.470622,
+    "add_date": "2016-07-10T09:42:30.417Z",
+    "update_date": "2016-07-10T09:42:30.417Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 105,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u0421\u043f\u0435\u0446\u0442\u0440\u0430\u043d\u0441\"",
+    "telephone": "",
+    "street": 74,
+    "house": 44,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.785752,
+    "position_y": 37.467727,
+    "add_date": "2016-07-10T09:43:20.516Z",
+    "update_date": "2016-07-10T09:43:20.516Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 106,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u0421\u043f\u0435\u0446\u0442\u0440\u0430\u043d\u0441\"",
+    "telephone": "",
+    "street": 75,
+    "house": 19,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.787499,
+    "position_y": 37.476942,
+    "add_date": "2016-07-10T09:45:06.408Z",
+    "update_date": "2016-07-10T09:45:06.408Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 107,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u0421\u043f\u0435\u0446\u0442\u0440\u0430\u043d\u0441\"",
+    "telephone": "",
+    "street": 75,
+    "house": 15,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.787229,
+    "position_y": 37.480705,
+    "add_date": "2016-07-10T09:45:58.402Z",
+    "update_date": "2016-07-10T09:45:58.402Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 108,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u0421\u043f\u0435\u0446\u0442\u0440\u0430\u043d\u0441\"",
+    "telephone": "",
+    "street": 76,
+    "house": 30,
+    "building": 5,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.788146,
+    "position_y": 37.470923,
+    "add_date": "2016-07-10T09:47:11.706Z",
+    "update_date": "2016-07-10T09:47:11.706Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 109,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u0421\u043f\u0435\u0446\u0442\u0440\u0430\u043d\u0441\"",
+    "telephone": "",
+    "street": 76,
+    "house": 30,
+    "building": 2,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.788378,
+    "position_y": 37.466417,
+    "add_date": "2016-07-10T09:47:53.702Z",
+    "update_date": "2016-07-10T09:47:53.702Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 110,
+  "fields": {
+    "name": "\u041e\u041e\u041e \"\u042d\u043a\u043e-\u041b\u0430\u0439\u043d\"",
+    "telephone": "",
+    "street": 77,
+    "house": 11,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.831,
+    "position_y": 37.524817,
+    "add_date": "2016-07-10T09:51:28.003Z",
+    "update_date": "2016-07-10T09:51:28.003Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 111,
+  "fields": {
+    "name": "\u0414\u0438\u043a\u0441\u0438",
+    "telephone": "",
+    "street": 78,
+    "house": 5,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.80746,
+    "position_y": 37.559671,
+    "add_date": "2016-07-10T09:53:33.207Z",
+    "update_date": "2016-07-10T09:53:33.207Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 112,
+  "fields": {
+    "name": "\u0414\u0438\u043a\u0441\u0438",
+    "telephone": "",
+    "street": 79,
+    "house": 15,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.775696,
+    "position_y": 37.5332,
+    "add_date": "2016-07-10T09:55:45.315Z",
+    "update_date": "2016-07-10T09:55:45.315Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 113,
+  "fields": {
+    "name": "\u0411\u0438\u0437\u043d\u0435\u0441 \u0422\u0440\u0435\u0439\u0434",
+    "telephone": "(495) 637-12-85",
+    "street": 87,
+    "house": 15,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.903744,
+    "position_y": 37.623511,
+    "add_date": "2016-07-10T15:48:44.314Z",
+    "update_date": "2016-07-10T23:30:29.920Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 114,
+  "fields": {
+    "name": "\u0410\u0440\u0441\u0435\u043d\u0430\u043b \u0413\u0440\u0443\u043f\u043f",
+    "telephone": "",
+    "street": 88,
+    "house": 5,
+    "building": 3,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.758913,
+    "position_y": 37.7992,
+    "add_date": "2016-07-10T15:48:44.711Z",
+    "update_date": "2016-07-10T23:30:11.510Z",
+    "description": "",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 115,
+  "fields": {
+    "name": "\u042d\u043a\u0441\u0436\u0438\u043b\u0441\u0442\u0440\u043e\u0439",
+    "telephone": "+7 (495) 670-00-50",
+    "street": 89,
+    "house": 8,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.746918,
+    "position_y": 37.758641,
+    "add_date": "2016-07-10T15:48:45.004Z",
+    "update_date": "2016-07-10T23:27:59.905Z",
+    "description": "http://www.exgilstroy.mpi.ru/",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 116,
+  "fields": {
+    "name": "\u042e\u041d\u0418",
+    "telephone": "",
+    "street": 90,
+    "house": 6,
+    "building": 2,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.747963,
+    "position_y": 37.774916,
+    "add_date": "2016-07-10T15:48:45.303Z",
+    "update_date": "2016-07-10T23:39:39.018Z",
+    "description": "www.ukunidom.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 117,
+  "fields": {
+    "name": "\u042e\u041d\u0418",
+    "telephone": "",
+    "street": 91,
+    "house": 8,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.759024,
+    "position_y": 37.773738,
+    "add_date": "2016-07-10T23:42:08.416Z",
+    "update_date": "2016-07-10T23:42:08.416Z",
+    "description": "www.ukunidom.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 118,
+  "fields": {
+    "name": "\u042e\u041d\u0418",
+    "telephone": "",
+    "street": 92,
+    "house": 70,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.763269,
+    "position_y": 37.779895,
+    "add_date": "2016-07-10T23:44:52.710Z",
+    "update_date": "2016-07-10T23:44:52.710Z",
+    "description": "www.ukunidom.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 119,
+  "fields": {
+    "name": "\u042d\u041a\u041e\u0422\u0420\u041e\u041c",
+    "telephone": "495 374 62 35",
+    "street": 93,
+    "house": 16,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.554994,
+    "position_y": 37.714806,
+    "add_date": "2016-07-11T09:16:57.513Z",
+    "update_date": "2016-07-11T09:16:57.513Z",
+    "description": "http://www.ecotrom.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 120,
+  "fields": {
+    "name": "\u042d\u041a\u041e\u0422\u0420\u041e\u041c",
+    "telephone": "495 374 62 35",
+    "street": 94,
+    "house": 3,
+    "building": 16,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.60988,
+    "position_y": 37.63254,
+    "add_date": "2016-07-11T09:21:59.116Z",
+    "update_date": "2016-07-11T09:21:59.116Z",
+    "description": "http://www.ecotrom.ru/",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 121,
+  "fields": {
+    "name": "\u042d\u041a\u041e\u0422\u0420\u041e\u041c",
+    "telephone": "495 374 62 35",
+    "street": 95,
+    "house": 77,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.811991,
+    "position_y": 37.804624,
+    "add_date": "2016-07-11T09:25:01.819Z",
+    "update_date": "2016-07-11T09:25:01.819Z",
+    "description": "http://www.ecotrom.ru/",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 122,
+  "fields": {
+    "name": "\u042d\u041a\u041e\u0422\u0420\u041e\u041c",
+    "telephone": "495 374 62 35",
+    "street": 96,
+    "house": 93,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.647107,
+    "position_y": 37.620788,
+    "add_date": "2016-07-11T10:07:00.414Z",
+    "update_date": "2016-07-11T10:07:49.308Z",
+    "description": "www.ecotrom.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 123,
+  "fields": {
+    "name": "\u042d\u041a\u041e\u0422\u0420\u041e\u041c",
+    "telephone": "495 374 62 35",
+    "street": 99,
+    "house": 17,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.704505,
+    "position_y": 37.653809,
+    "add_date": "2016-07-11T10:09:34.815Z",
+    "update_date": "2016-07-11T10:09:34.815Z",
+    "description": "www.ecotrom.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 124,
+  "fields": {
+    "name": "\u042d\u041a\u041e\u041d",
+    "telephone": "(495) 944-17-01",
+    "street": 97,
+    "house": 20,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.858913,
+    "position_y": 37.414337,
+    "add_date": "2016-07-11T10:19:17.219Z",
+    "update_date": "2016-07-11T10:19:17.219Z",
+    "description": "www.econ-hg.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 125,
+  "fields": {
+    "name": "\u0418\u043d\u0442\u0435\u0440 \u0413\u0440\u0438\u043d",
+    "telephone": "(495) 775-81-41",
+    "street": 98,
+    "house": 13,
+    "building": 2,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.723593,
+    "position_y": 37.673141,
+    "add_date": "2016-07-11T10:24:53.616Z",
+    "update_date": "2016-07-11T10:24:53.616Z",
+    "description": "www.intergreen.ru",
+    "show": true
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 126,
+  "fields": {
+    "name": "\u0413\u0438\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442 \"Globus\"",
+    "telephone": "",
+    "street": 101,
+    "house": 1,
+    "building": 1,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.790639,
+    "position_y": 37.368563,
+    "add_date": "2016-07-11T22:37:49.699Z",
+    "update_date": "2016-07-11T22:37:49.699Z",
+    "description": "",
+    "show": false
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 127,
+  "fields": {
+    "name": "\u0418\u041a\u0415\u0410",
+    "telephone": "",
+    "street": 102,
+    "house": 0,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.562252,
+    "position_y": 37.440749,
+    "add_date": "2016-07-11T22:58:04.606Z",
+    "update_date": "2016-07-11T22:59:01.407Z",
+    "description": "http://www.ikea.com/ru/ru/store/teply_stan",
+    "show": false
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 128,
+  "fields": {
+    "name": "\u041b\u041e\u041c-\u0410\u041a\u0411",
+    "telephone": "(499) 650-52-09",
+    "street": 103,
+    "house": 4,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.719784,
+    "position_y": 37.727522,
+    "add_date": "2016-07-11T23:20:45.499Z",
+    "update_date": "2016-07-11T23:20:45.499Z",
+    "description": "http://www.priem-akkumulyatorov.ru/",
+    "show": false
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 129,
+  "fields": {
+    "name": "\u041e\u0421\u041a\u0410\u0411",
+    "telephone": "(495) 105-92-42",
+    "street": 104,
+    "house": 6,
+    "building": 17,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.873436,
+    "position_y": 37.472397,
+    "add_date": "2016-07-11T23:27:10.601Z",
+    "update_date": "2016-07-11T23:27:10.601Z",
+    "description": "oskab.ru",
+    "show": false
+  }
+},
+{
+  "model": "re_app.station",
+  "pk": 130,
+  "fields": {
+    "name": "\u041e\u0421\u041a\u0410\u0411",
+    "telephone": "(495) 105-92-42",
+    "street": 105,
+    "house": 6,
+    "building": 0,
+    "raiting": 0,
+    "nof_use": 0,
+    "position_x": 55.818897,
+    "position_y": 37.731251,
+    "add_date": "2016-07-11T23:28:53.205Z",
+    "update_date": "2016-07-11T23:28:53.205Z",
+    "description": "http://oskab.ru/",
+    "show": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 11,
+  "fields": {
+    "station": 13,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "10:00:00",
+    "time_close": "20:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 12,
+  "fields": {
+    "station": 14,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "10:00:00",
+    "time_close": "22:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 13,
+  "fields": {
+    "station": 15,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "10:00:00",
+    "time_close": "22:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 14,
+  "fields": {
+    "station": 16,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u041f\u0442",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 15,
+  "fields": {
+    "station": 17,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u041f\u0442",
+    "time_open": "11:00:00",
+    "time_close": "17:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 16,
+  "fields": {
+    "station": 18,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "08:00:00",
+    "time_close": "22:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 17,
+  "fields": {
+    "station": 19,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "00:00:00",
+    "time_close": "23:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 18,
+  "fields": {
+    "station": 20,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "22:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 19,
+  "fields": {
+    "station": 21,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "21:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 20,
+  "fields": {
+    "station": 22,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "10:00:00",
+    "time_close": "22:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 21,
+  "fields": {
+    "station": 23,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "10:00:00",
+    "time_close": "22:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 22,
+  "fields": {
+    "station": 24,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "10:00:00",
+    "time_close": "22:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 23,
+  "fields": {
+    "station": 25,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "10:00:00",
+    "time_close": "21:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 24,
+  "fields": {
+    "station": 26,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "10:00:00",
+    "time_close": "22:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 25,
+  "fields": {
+    "station": 27,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 26,
+  "fields": {
+    "station": 28,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 27,
+  "fields": {
+    "station": 29,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 28,
+  "fields": {
+    "station": 30,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 29,
+  "fields": {
+    "station": 31,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 30,
+  "fields": {
+    "station": 32,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 31,
+  "fields": {
+    "station": 33,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 32,
+  "fields": {
+    "station": 34,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 33,
+  "fields": {
+    "station": 35,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 34,
+  "fields": {
+    "station": 36,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 35,
+  "fields": {
+    "station": 37,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 36,
+  "fields": {
+    "station": 38,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 37,
+  "fields": {
+    "station": 39,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 38,
+  "fields": {
+    "station": 40,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 39,
+  "fields": {
+    "station": 41,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 40,
+  "fields": {
+    "station": 42,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 41,
+  "fields": {
+    "station": 43,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 42,
+  "fields": {
+    "station": 44,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 43,
+  "fields": {
+    "station": 45,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 44,
+  "fields": {
+    "station": 46,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 45,
+  "fields": {
+    "station": 47,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 46,
+  "fields": {
+    "station": 48,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 47,
+  "fields": {
+    "station": 49,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 48,
+  "fields": {
+    "station": 50,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 49,
+  "fields": {
+    "station": 51,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 50,
+  "fields": {
+    "station": 52,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 51,
+  "fields": {
+    "station": 53,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 52,
+  "fields": {
+    "station": 54,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 53,
+  "fields": {
+    "station": 55,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 54,
+  "fields": {
+    "station": 56,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 55,
+  "fields": {
+    "station": 57,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 56,
+  "fields": {
+    "station": 58,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 57,
+  "fields": {
+    "station": 59,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 58,
+  "fields": {
+    "station": 60,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 59,
+  "fields": {
+    "station": 61,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 60,
+  "fields": {
+    "station": 62,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 61,
+  "fields": {
+    "station": 63,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 62,
+  "fields": {
+    "station": 64,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "08:10:54",
+    "time_close": "08:10:55",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 63,
+  "fields": {
+    "station": 65,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "20:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 64,
+  "fields": {
+    "station": 66,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "10:00:00",
+    "time_close": "20:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 65,
+  "fields": {
+    "station": 67,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "07:00:00",
+    "time_close": "22:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 66,
+  "fields": {
+    "station": 68,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u041f\u0442",
+    "time_open": "10:00:00",
+    "time_close": "18:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 67,
+  "fields": {
+    "station": 69,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 68,
+  "fields": {
+    "station": 70,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0421\u0431",
+    "time_open": "08:00:00",
+    "time_close": "20:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 69,
+  "fields": {
+    "station": 71,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0421\u0431",
+    "time_open": "08:00:00",
+    "time_close": "20:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 70,
+  "fields": {
+    "station": 72,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "08:00:00",
+    "time_close": "20:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 71,
+  "fields": {
+    "station": 73,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 72,
+  "fields": {
+    "station": 74,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u041f\u0442",
+    "time_open": "09:00:00",
+    "time_close": "19:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 73,
+  "fields": {
+    "station": 75,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 74,
+  "fields": {
+    "station": 76,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u041f\u0442",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 75,
+  "fields": {
+    "station": 77,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "08:00:00",
+    "time_close": "17:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 76,
+  "fields": {
+    "station": 78,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 77,
+  "fields": {
+    "station": 79,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "10:00:00",
+    "time_close": "20:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 78,
+  "fields": {
+    "station": 80,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u041f\u0442",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 79,
+  "fields": {
+    "station": 81,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "21:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 80,
+  "fields": {
+    "station": 82,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 81,
+  "fields": {
+    "station": 83,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "07:00:00",
+    "time_close": "22:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 82,
+  "fields": {
+    "station": 84,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 83,
+  "fields": {
+    "station": 85,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 84,
+  "fields": {
+    "station": 86,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "22:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 85,
+  "fields": {
+    "station": 87,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 86,
+  "fields": {
+    "station": 88,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 87,
+  "fields": {
+    "station": 89,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u041f\u0442",
+    "time_open": "08:00:00",
+    "time_close": "17:30:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 88,
+  "fields": {
+    "station": 90,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 89,
+  "fields": {
+    "station": 91,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u041f\u0442",
+    "time_open": "10:00:00",
+    "time_close": "16:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 90,
+  "fields": {
+    "station": 92,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 91,
+  "fields": {
+    "station": 93,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 92,
+  "fields": {
+    "station": 94,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 93,
+  "fields": {
+    "station": 95,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 94,
+  "fields": {
+    "station": 96,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 95,
+  "fields": {
+    "station": 97,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 96,
+  "fields": {
+    "station": 98,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 97,
+  "fields": {
+    "station": 99,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 98,
+  "fields": {
+    "station": 100,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 99,
+  "fields": {
+    "station": 101,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 100,
+  "fields": {
+    "station": 102,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 101,
+  "fields": {
+    "station": 103,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 102,
+  "fields": {
+    "station": 104,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 103,
+  "fields": {
+    "station": 105,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 104,
+  "fields": {
+    "station": 106,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 105,
+  "fields": {
+    "station": 107,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 106,
+  "fields": {
+    "station": 108,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 107,
+  "fields": {
+    "station": 109,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 108,
+  "fields": {
+    "station": 110,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 109,
+  "fields": {
+    "station": 111,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 110,
+  "fields": {
+    "station": 112,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": true
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 111,
+  "fields": {
+    "station": 113,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0427\u0442",
+    "time_open": "08:00:00",
+    "time_close": "17:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 112,
+  "fields": {
+    "station": 114,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "08:00:00",
+    "time_close": "21:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 113,
+  "fields": {
+    "station": 115,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0427\u0442",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 114,
+  "fields": {
+    "station": 116,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0427\u0442",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 115,
+  "fields": {
+    "station": 113,
+    "day_open": "\u041f\u0442",
+    "day_close": "\u041f\u0442",
+    "time_open": "08:00:00",
+    "time_close": "16:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 116,
+  "fields": {
+    "station": 114,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "08:00:00",
+    "time_close": "21:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 117,
+  "fields": {
+    "station": 115,
+    "day_open": "\u041f\u0442",
+    "day_close": "\u041f\u0442",
+    "time_open": "09:00:00",
+    "time_close": "17:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 118,
+  "fields": {
+    "station": 116,
+    "day_open": "\u041f\u0442",
+    "day_close": "\u041f\u0442",
+    "time_open": "09:00:00",
+    "time_close": "16:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 119,
+  "fields": {
+    "station": 117,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0427\u0442",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 120,
+  "fields": {
+    "station": 117,
+    "day_open": "\u041f\u0442",
+    "day_close": "\u041f\u0442",
+    "time_open": "09:00:00",
+    "time_close": "16:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 121,
+  "fields": {
+    "station": 118,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0427\u0442",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 122,
+  "fields": {
+    "station": 118,
+    "day_open": "\u041f\u0442",
+    "day_close": "\u041f\u0442",
+    "time_open": "09:00:00",
+    "time_close": "16:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 123,
+  "fields": {
+    "station": 119,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0427\u0442",
+    "time_open": "09:00:00",
+    "time_close": "16:30:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 124,
+  "fields": {
+    "station": 119,
+    "day_open": "\u041f\u0442",
+    "day_close": "\u041f\u0442",
+    "time_open": "09:00:00",
+    "time_close": "15:30:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 125,
+  "fields": {
+    "station": 120,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0427\u0442",
+    "time_open": "09:00:00",
+    "time_close": "17:30:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 126,
+  "fields": {
+    "station": 120,
+    "day_open": "\u041f\u0442",
+    "day_close": "\u041f\u0442",
+    "time_open": "09:00:00",
+    "time_close": "16:30:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 127,
+  "fields": {
+    "station": 121,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0427\u0442",
+    "time_open": "09:00:00",
+    "time_close": "17:30:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 128,
+  "fields": {
+    "station": 121,
+    "day_open": "\u041f\u0442",
+    "day_close": "\u041f\u0442",
+    "time_open": "09:00:00",
+    "time_close": "16:30:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 129,
+  "fields": {
+    "station": 122,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0427\u0442",
+    "time_open": "09:00:00",
+    "time_close": "17:30:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 130,
+  "fields": {
+    "station": 122,
+    "day_open": "\u041f\u0442",
+    "day_close": "\u041f\u0442",
+    "time_open": "09:00:00",
+    "time_close": "16:30:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 131,
+  "fields": {
+    "station": 123,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0427\u0442",
+    "time_open": "09:00:00",
+    "time_close": "17:30:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 132,
+  "fields": {
+    "station": 123,
+    "day_open": "\u041f\u0442",
+    "day_close": "\u041f\u0442",
+    "time_open": "09:00:00",
+    "time_close": "16:30:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 133,
+  "fields": {
+    "station": 124,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u041f\u0442",
+    "time_open": "09:00:00",
+    "time_close": "17:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 134,
+  "fields": {
+    "station": 125,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u041f\u0442",
+    "time_open": "10:00:00",
+    "time_close": "18:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 135,
+  "fields": {
+    "station": 126,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "08:00:00",
+    "time_close": "23:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 136,
+  "fields": {
+    "station": 127,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u0412\u0441",
+    "time_open": "10:00:00",
+    "time_close": "02:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 137,
+  "fields": {
+    "station": 128,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u041f\u0442",
+    "time_open": "10:00:00",
+    "time_close": "21:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 138,
+  "fields": {
+    "station": 128,
+    "day_open": "\u0421\u0431",
+    "day_close": "\u0412\u0441",
+    "time_open": "10:00:00",
+    "time_close": "20:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 139,
+  "fields": {
+    "station": 129,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u041f\u0442",
+    "time_open": "09:00:00",
+    "time_close": "18:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 140,
+  "fields": {
+    "station": 130,
+    "day_open": "\u041f\u043d",
+    "day_close": "\u041f\u0442",
+    "time_open": "09:00:00",
+    "time_close": "21:00:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.schedule",
+  "pk": 141,
+  "fields": {
+    "station": 130,
+    "day_open": "\u0421\u0431",
+    "day_close": "\u0412\u0441",
+    "time_open": "10:00:00",
+    "time_close": "18:45:00",
+    "all_day": false
+  }
+},
+{
+  "model": "re_app.trashclass",
+  "pk": 1,
+  "fields": {
+    "name": "I \u043a\u043b\u0430\u0441\u0441 (\u0447\u0440\u0435\u0437\u0432\u044b\u0447\u0430\u0439\u043d\u043e \u043e\u043f\u0430\u0441\u043d\u044b\u0435)",
+    "description": "\u0421\u0442\u0435\u043f\u0435\u043d\u044c \u0432\u0440\u0435\u0434\u043d\u043e\u0433\u043e \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043e\u043f\u0430\u0441\u043d\u044b\u0445 \u043e\u0442\u0445\u043e\u0434\u043e\u0432 \u043d\u0430 \u043e\u043a\u0440\u0443\u0436\u0430\u044e\u0449\u0443\u044e \u043f\u0440\u0438\u0440\u043e\u0434\u043d\u0443\u044e \u0441\u0440\u0435\u0434\u0443 \u2013 \u043e\u0447\u0435\u043d\u044c \u0432\u044b\u0441\u043e\u043a\u0430\u044f.\r\n\r\n\u042d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043d\u0435\u043e\u0431\u0440\u0430\u0442\u0438\u043c\u043e \u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0430. \u041f\u0435\u0440\u0438\u043e\u0434 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442.\r\n\r\n\u041a \u0447\u0440\u0435\u0437\u0432\u044b\u0447\u0430\u0439\u043d\u043e \u043e\u043f\u0430\u0441\u043d\u044b\u043c \u043e\u0442\u0445\u043e\u0434\u0430\u043c \u043e\u0442\u043d\u043e\u0441\u044f\u0442\u0441\u044f: \u043e\u0442\u0445\u043e\u0434\u044b \u043f\u043e\u043b\u0438\u0445\u043b\u043e\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0434\u0438\u0444\u0435\u043d\u0438\u043b\u043e\u0432 \u0438 \u0442\u0435\u0440\u0444\u0435\u043d\u0438\u043b\u043e\u0432, \u043f\u043e\u043b\u0438\u0431\u0440\u043e\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0434\u0438\u0444\u0435\u043d\u0438\u043b\u043e\u0432, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043e\u0442\u0445\u043e\u0434\u044b \u0432\u0435\u0449\u0435\u0441\u0442\u0432 \u0438 \u0438\u0437\u0434\u0435\u043b\u0438\u0439, \u0438\u0445 \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0438\u0445; \u0442\u0440\u0430\u043d\u0441\u0444\u043e\u0440\u043c\u0430\u0442\u043e\u0440\u044b \u0441 \u043f\u0435\u043d\u0442\u043e\u0445\u043b\u043e\u0440\u0434\u0438\u0444\u0435\u043d\u0438\u043b\u043e\u043c \u043e\u0442\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u044b\u0435; \u043a\u043e\u043d\u0434\u0435\u043d\u0441\u0430\u0442\u043e\u0440\u044b \u0441 \u043f\u0435\u043d\u0442\u043e\u0445\u043b\u043e\u0440\u0434\u0438\u0444\u0435\u043d\u0438\u043b\u043e\u043c \u043e\u0442\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u044b\u0435; \u043a\u043e\u043d\u0434\u0435\u043d\u0441\u0430\u0442\u043e\u0440\u044b \u0441 \u0442\u0440\u0438\u0445\u043b\u043e\u0440\u0434\u0438\u0444\u0435\u043d\u0438\u043b\u043e\u043c \u043e\u0442\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u044b\u0435; \u0448\u043b\u0430\u043c \u0441 \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0438\u0439 \u0442\u0435\u0442\u0440\u0430\u044d\u0442\u0438\u043b\u0441\u0432\u0438\u043d\u0435\u0446 (\u0430\u043d\u0442\u0438\u0434\u0435\u0442\u043e\u043d\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u0441\u0430\u0434\u043a\u0438 \u0438 \u043e\u0442\u0445\u043e\u0434\u044b, \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0438\u0435 \u043c\u0435\u0442\u0430\u043b\u043b\u043e\u043e\u0440\u0433\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u044f); \u043a\u0440\u0435\u0437\u043e\u043b (\u043e\u0441\u0442\u0430\u0442\u043a\u0438 \u043a\u0440\u0435\u0437\u043e\u043b\u0430, \u043f\u043e\u0442\u0435\u0440\u044f\u0432\u0448\u0435\u0433\u043e \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430); \u0441\u0438\u043d\u0442\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0438 \u043c\u0438\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0435 \u043c\u0430\u0441\u043b\u0430, \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0438\u0435 \u043f\u043e\u043b\u0438\u0445\u043b\u043e\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0434\u0438\u0444\u0435\u043d\u0438\u043b\u044b \u0438 \u0442\u0435\u0440\u0444\u0435\u043d\u0438\u043b\u044b, \u043f\u043e\u0442\u0435\u0440\u044f\u0432\u0448\u0438\u0435 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430; \u043e\u0442\u0445\u043e\u0434\u044b \u0441\u043e\u043b\u0435\u0439 \u043c\u044b\u0448\u044c\u044f\u043a\u0430 \u0432 \u0442\u0432\u0435\u0440\u0434\u043e\u043c \u0432\u0438\u0434\u0435; \u0440\u0442\u0443\u0442\u044c\u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0438\u0435 \u0438\u0437\u0434\u0435\u043b\u0438\u044f, \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430, \u043f\u0440\u0438\u0431\u043e\u0440\u044b, \u043f\u043e\u0442\u0435\u0440\u044f\u0432\u0448\u0438\u0435 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430; \u0440\u0442\u0443\u0442\u043d\u044b\u0435 \u0442\u0435\u0440\u043c\u043e\u043c\u0435\u0442\u0440\u044b \u043e\u0442\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u044b\u0435 \u0438 \u0431\u0440\u0430\u043a, \u043f\u043e\u0442\u0435\u0440\u044f\u0432\u0448\u0438\u0435 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430; \u043e\u0442\u0445\u043e\u0434\u044b \u0430\u0441\u0431\u0435\u0441\u0442\u0430, \u0430\u0441\u0431\u0435\u0441\u0442\u043e\u0432\u0430\u044f \u043f\u044b\u043b\u044c \u0438 \u0432\u043e\u043b\u043e\u043a\u043d\u043e \u0438 \u0434\u0440."
+  }
+},
+{
+  "model": "re_app.trashclass",
+  "pk": 2,
+  "fields": {
+    "name": "II \u043a\u043b\u0430\u0441\u0441 (\u0432\u044b\u0441\u043e\u043a\u043e\u043e\u043f\u0430\u0441\u043d\u044b\u0435)",
+    "description": "\u0421\u0442\u0435\u043f\u0435\u043d\u044c \u0432\u0440\u0435\u0434\u043d\u043e\u0433\u043e \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043e\u043f\u0430\u0441\u043d\u044b\u0445 \u043e\u0442\u0445\u043e\u0434\u043e\u0432 \u043d\u0430 \u043e\u043a\u0440\u0443\u0436\u0430\u044e\u0449\u0443\u044e \u043f\u0440\u0438\u0440\u043e\u0434\u043d\u0443\u044e \u0441\u0440\u0435\u0434\u0443 \u2013 \u0432\u044b\u0441\u043e\u043a\u0430\u044f.\r\n\r\n\u042d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0441\u0438\u043b\u044c\u043d\u043e \u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0430. \u041f\u0435\u0440\u0438\u043e\u0434 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0435 \u043c\u0435\u043d\u0435\u0435 30 \u043b\u0435\u0442 \u043f\u043e\u0441\u043b\u0435 \u043f\u043e\u043b\u043d\u043e\u0433\u043e \u0443\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430 \u0432\u0440\u0435\u0434\u043d\u043e\u0433\u043e \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f.\r\n\r\n\u041a \u0432\u044b\u0441\u043e\u043a\u043e\u043e\u043f\u0430\u0441\u043d\u044b\u043c \u043e\u0442\u0445\u043e\u0434\u0430\u043c \u043e\u0442\u043d\u043e\u0441\u044f\u0442\u0441\u044f: \u043a\u0430\u0431\u0435\u043b\u044c \u043c\u0435\u0434\u043d\u043e-\u0436\u0438\u043b\u044c\u043d\u044b\u0439 \u043e\u0441\u0432\u0438\u043d\u0446\u043e\u0432\u0430\u043d\u043d\u044b\u0439, \u043f\u043e\u0442\u0435\u0440\u044f\u0432\u0448\u0438\u0439 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430; \u0430\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u044b \u0441\u0432\u0438\u043d\u0446\u043e\u0432\u044b\u0435 \u043e\u0442\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u044b\u0435, \u0431\u0440\u0430\u043a (\u043d\u0435\u043f\u043e\u0432\u0440\u0435\u0436\u0434\u0435\u043d\u043d\u044b\u0435, \u0441 \u043d\u0435\u0441\u043b\u0438\u0442\u044b\u043c \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043b\u0438\u0442\u043e\u043c); \u043e\u0441\u0442\u0430\u0442\u043a\u0438 \u0440\u0430\u0444\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0435\u0444\u0442\u0435\u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432, \u043e\u0442\u0445\u043e\u0434\u044b \u043a\u0438\u0441\u043b\u044b\u0445 \u0441\u043c\u043e\u043b, \u043a\u0438\u0441\u043b\u043e\u0433\u043e \u0434\u0435\u0433\u0442\u044f; \u0449\u0435\u043b\u043e\u0447\u0438 \u0430\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u043d\u044b\u0435 \u043e\u0442\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u044b\u0435; \u043a\u0438\u0441\u043b\u043e\u0442\u0430 \u0430\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u043d\u0430\u044f \u0441\u0435\u0440\u043d\u0430\u044f \u043e\u0442\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u0430\u044f; \u043e\u0442\u0445\u043e\u0434\u044b \u0445\u043b\u043e\u0440\u0438\u0434\u0430 \u043c\u0435\u0434\u0438 \u0432 \u0442\u0432\u0435\u0440\u0434\u043e\u043c \u0432\u0438\u0434\u0435; \u043e\u0442\u0445\u043e\u0434\u044b \u0441\u043e\u043b\u0435\u0439 \u0441\u0432\u0438\u043d\u0446\u0430 \u0432 \u0442\u0432\u0435\u0440\u0434\u043e\u043c \u0432\u0438\u0434\u0435; \u043e\u043f\u0438\u043b\u043a\u0438 \u0441\u0432\u0438\u043d\u0446\u043e\u0432\u044b\u0435 \u043d\u0435\u0437\u0430\u0433\u0440\u044f\u0437\u043d\u0435\u043d\u043d\u044b\u0435 \u0438 \u0434\u0440."
+  }
+},
+{
+  "model": "re_app.trashclass",
+  "pk": 3,
+  "fields": {
+    "name": "III \u043a\u043b\u0430\u0441\u0441 (\u0443\u043c\u0435\u0440\u0435\u043d\u043d\u043e \u043e\u043f\u0430\u0441\u043d\u044b\u0435)",
+    "description": "\u0421\u0442\u0435\u043f\u0435\u043d\u044c \u0432\u0440\u0435\u0434\u043d\u043e\u0433\u043e \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043e\u043f\u0430\u0441\u043d\u044b\u0445 \u043e\u0442\u0445\u043e\u0434\u043e\u0432 \u043d\u0430 \u043e\u043a\u0440\u0443\u0436\u0430\u044e\u0449\u0443\u044e \u043f\u0440\u0438\u0440\u043e\u0434\u043d\u0443\u044e \u0441\u0440\u0435\u0434\u0443 \u2013 \u0441\u0440\u0435\u0434\u043d\u044f\u044f.\r\n\r\n\u042d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0430. \u041f\u0435\u0440\u0438\u043e\u0434 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0435 \u043c\u0435\u043d\u0435\u0435 10 \u043b\u0435\u0442 \u043f\u043e\u0441\u043b\u0435 \u0441\u043d\u0438\u0436\u0435\u043d\u0438\u044f \u0432\u0440\u0435\u0434\u043d\u043e\u0433\u043e \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043e\u0442 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0435\u0433\u043e \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430.\r\n\r\n\u041a \u0443\u043c\u0435\u0440\u0435\u043d\u043d\u043e \u043e\u043f\u0430\u0441\u043d\u044b\u043c \u043e\u0442\u0445\u043e\u0434\u0430\u043c \u043e\u0442\u043d\u043e\u0441\u044f\u0442\u0441\u044f: \u043f\u0440\u043e\u0432\u043e\u0434 \u043c\u0435\u0434\u043d\u044b\u0439, \u043f\u043e\u043a\u0440\u044b\u0442\u044b\u0439 \u043d\u0438\u043a\u0435\u043b\u0435\u043c, \u043d\u0435\u0437\u0430\u0433\u0440\u044f\u0437\u043d\u0435\u043d\u043d\u044b\u0439, \u043f\u043e\u0442\u0435\u0440\u044f\u0432\u0448\u0438\u0439 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430; \u0430\u0446\u0435\u0442\u043e\u043d, \u043f\u043e\u0442\u0435\u0440\u044f\u0432\u0448\u0438\u0439 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430; \u043e\u0431\u0442\u0438\u0440\u043e\u0447\u043d\u044b\u0439 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b, \u0437\u0430\u0433\u0440\u044f\u0437\u043d\u0435\u043d\u043d\u044b\u0439 \u043c\u0430\u0441\u043b\u0430\u043c\u0438 (\u0441\u043e\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u0435 \u043c\u0430\u0441\u0435\u043b 15% \u0438 \u0431\u043e\u043b\u0435\u0435); \u0448\u043b\u0430\u043c \u043e\u0447\u0438\u0441\u0442\u043a\u0438 \u0442\u0440\u0443\u0431\u043e\u043f\u0440\u043e\u0432\u043e\u0434\u043e\u0432 \u0438 \u0435\u043c\u043a\u043e\u0441\u0442\u0435\u0439 (\u0431\u043e\u0447\u0435\u043a, \u043a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440\u043e\u0432, \u0446\u0438\u0441\u0442\u0435\u0440\u043d, \u0433\u0443\u0434\u0440\u043e\u043d\u0430\u0442\u043e\u0440\u043e\u0432) \u043e\u0442 \u043d\u0435\u0444\u0442\u0438; \u0434\u0438\u0437\u0435\u043b\u044c\u043d\u043e\u0435 \u0442\u043e\u043f\u043b\u0438\u0432\u043e, \u043f\u043e\u0442\u0435\u0440\u044f\u0432\u0448\u0435\u0435 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430; \u0430\u0432\u0438\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435, \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0438 \u043c\u043e\u0442\u043e\u0440\u043d\u044b\u0435 \u043c\u0430\u0441\u043b\u0430, \u043f\u043e\u0442\u0435\u0440\u044f\u0432\u0448\u0438\u0435 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430; \u043f\u044b\u043b\u044c \u0446\u0435\u043c\u0435\u043d\u0442\u043d\u0430\u044f; \u043f\u0435\u0441\u043e\u043a, \u0437\u0430\u0433\u0440\u044f\u0437\u043d\u0435\u043d\u043d\u044b\u0439 \u0431\u0435\u043d\u0437\u0438\u043d\u043e\u043c (\u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0431\u0435\u043d\u0437\u0438\u043d\u0430 15% \u0438 \u0431\u043e\u043b\u0435\u0435); \u043f\u0435\u0441\u043e\u043a, \u0437\u0430\u0433\u0440\u044f\u0437\u043d\u0435\u043d\u043d\u044b\u0439 \u043c\u0430\u0441\u043b\u0430\u043c\u0438 (\u0441\u043e\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u0435 \u043c\u0430\u0441\u0435\u043b 15% \u0438 \u0431\u043e\u043b\u0435\u0435), \u043f\u044b\u043b\u044c \u0442\u0430\u0431\u0430\u0447\u043d\u0430\u044f \u0438 \u0434\u0440."
+  }
+},
+{
+  "model": "re_app.trashclass",
+  "pk": 4,
+  "fields": {
+    "name": "IV \u043a\u043b\u0430\u0441\u0441 (\u043c\u0430\u043b\u043e\u043e\u043f\u0430\u0441\u043d\u044b\u0435)",
+    "description": "\u0421\u0442\u0435\u043f\u0435\u043d\u044c \u0432\u0440\u0435\u0434\u043d\u043e\u0433\u043e \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043e\u043f\u0430\u0441\u043d\u044b\u0445 \u043e\u0442\u0445\u043e\u0434\u043e\u0432 \u043d\u0430 \u043e\u043a\u0440\u0443\u0436\u0430\u044e\u0449\u0443\u044e \u043f\u0440\u0438\u0440\u043e\u0434\u043d\u0443\u044e \u0441\u0440\u0435\u0434\u0443 \u2013 \u043d\u0438\u0437\u043a\u0430\u044f.\r\n\r\n\u042d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0430. \u041f\u0435\u0440\u0438\u043e\u0434 \u0441\u0430\u043c\u043e\u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0435 \u043c\u0435\u043d\u0435\u0435 3-\u0445 \u043b\u0435\u0442.\r\n\r\n\u041a \u043c\u0430\u043b\u043e\u043e\u043f\u0430\u0441\u043d\u044b\u043c \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430\u043c \u043e\u0442\u043d\u043e\u0441\u044f\u0442\u0441\u044f: \u043c\u0443\u0441\u043e\u0440 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043e\u0442 \u0440\u0430\u0437\u0431\u043e\u0440\u043a\u0438 \u0437\u0434\u0430\u043d\u0438\u0439; \u043c\u0443\u0441\u043e\u0440 \u043e\u0442 \u0431\u044b\u0442\u043e\u0432\u044b\u0445 \u043f\u043e\u043c\u0435\u0449\u0435\u043d\u0438\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0439 \u043d\u0435\u0441\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 (\u0438\u0441\u043a\u043b\u044e\u0447\u0430\u044f \u043a\u0440\u0443\u043f\u043d\u043e\u0433\u0430\u0431\u0430\u0440\u0438\u0442\u043d\u044b\u0439); \u043e\u0442\u0445\u043e\u0434\u044b \u0438\u0437 \u0436\u0438\u043b\u0438\u0449 \u043d\u0435\u0441\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 (\u0438\u0441\u043a\u043b\u044e\u0447\u0430\u044f \u043a\u0440\u0443\u043f\u043d\u043e\u0433\u0430\u0431\u0430\u0440\u0438\u0442\u043d\u044b\u0435); \u043f\u043e\u043a\u0440\u044b\u0448\u043a\u0438 \u043e\u0442\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u044b\u0435; \u043e\u0442\u0445\u043e\u0434\u044b \u0431\u0438\u0442\u0443\u043c\u0430, \u0430\u0441\u0444\u0430\u043b\u044c\u0442\u0430 \u0432 \u0442\u0432\u0435\u0440\u0434\u043e\u0439 \u0444\u043e\u0440\u043c\u0435; \u043e\u0442\u0445\u043e\u0434\u044b, \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0438\u0435 \u0431\u0440\u043e\u043d\u0437\u0443 (\u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u043f\u044b\u043b\u044c \u0431\u0440\u043e\u043d\u0437\u044b), \u043d\u0435\u0441\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435; \u043f\u044b\u043b\u044c \u0447\u0435\u0440\u043d\u044b\u0445 \u043c\u0435\u0442\u0430\u043b\u043b\u043e\u0432 \u043d\u0435\u0437\u0430\u0433\u0440\u044f\u0437\u043d\u0435\u043d\u043d\u0430\u044f; \u043e\u0442\u0445\u043e\u0434\u044b, \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0438\u0435 \u0447\u0443\u0433\u0443\u043d (\u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u0447\u0443\u0433\u0443\u043d\u043d\u0443\u044e \u043f\u044b\u043b\u044c), \u043d\u0435\u0441\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435; \u043f\u044b\u043b\u044c \u0433\u0438\u043f\u0441\u043e\u0432\u0430\u044f; \u043f\u044b\u043b\u044c \u0431\u0435\u0442\u043e\u043d\u043d\u0430\u044f; \u043f\u044b\u043b\u044c \u043e\u0442 \u0448\u043b\u0430\u043a\u043e\u0432\u0430\u0442\u044b; \u043f\u044b\u043b\u044c \u043a\u0438\u0440\u043f\u0438\u0447\u043d\u0430\u044f; \u043e\u0442\u0445\u043e\u0434\u044b \u043c\u0435\u043b\u0430 \u0432 \u0432\u0438\u0434\u0435 \u043f\u043e\u0440\u043e\u0448\u043a\u0430 \u0438\u043b\u0438 \u043f\u044b\u043b\u0438; \u0440\u0430\u0437\u043d\u043e\u0440\u043e\u0434\u043d\u044b\u0435 \u043e\u0442\u0445\u043e\u0434\u044b \u0431\u0443\u043c\u0430\u0433\u0438 \u0438 \u043a\u0430\u0440\u0442\u043e\u043d\u0430 (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0438\u0435 \u043e\u0442\u0445\u043e\u0434\u044b \u0444\u043e\u0442\u043e\u0431\u0443\u043c\u0430\u0433\u0438); \u043e\u0442\u0445\u043e\u0434\u044b \u0440\u0443\u0431\u0435\u0440\u043e\u0438\u0434\u0430; \u043e\u043f\u0438\u043b\u043a\u0438 \u0440\u0430\u0437\u043d\u043e\u0440\u043e\u0434\u043d\u043e\u0439 \u0434\u0440\u0435\u0432\u0435\u0441\u0438\u043d\u044b (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0438\u0435 \u043e\u043f\u0438\u043b\u043a\u0438 \u0434\u0440\u0435\u0432\u0435\u0441\u043d\u043e-\u0441\u0442\u0440\u0443\u0436\u0435\u0447\u043d\u044b\u0445 \u0438/\u0438\u043b\u0438 \u0434\u0440\u0435\u0432\u0435\u0441\u043d\u043e-\u0432\u043e\u043b\u043e\u043a\u043d\u0438\u0441\u0442\u044b\u0445 \u043f\u043b\u0438\u0442); \u043e\u0442\u0445\u043e\u0434\u044b \u043f\u0435\u0440\u044c\u0435\u0432 \u0438 \u043f\u0443\u0445\u0430."
+  }
+},
+{
+  "model": "re_app.trashclass",
+  "pk": 5,
+  "fields": {
+    "name": "V \u043a\u043b\u0430\u0441\u0441 (\u043d\u0435\u043e\u043f\u0430\u0441\u043d\u044b\u0435)",
+    "description": "\u0421\u0442\u0435\u043f\u0435\u043d\u044c \u0432\u0440\u0435\u0434\u043d\u043e\u0433\u043e \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043e\u043f\u0430\u0441\u043d\u044b\u0445 \u043e\u0442\u0445\u043e\u0434\u043e\u0432 \u043d\u0430 \u043e\u043a\u0440\u0443\u0436\u0430\u044e\u0449\u0443\u044e \u043f\u0440\u0438\u0440\u043e\u0434\u043d\u0443\u044e \u0441\u0440\u0435\u0434\u0443 \u2013 \u043e\u0447\u0435\u043d\u044c \u043d\u0438\u0437\u043a\u0430\u044f.\r\n\r\n\u042d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u043d\u0435 \u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0430.\r\n\r\n\u0421\u043e\u0441\u0442\u0430\u0432 \u043e\u0442\u0445\u043e\u0434\u043e\u0432 5 \u043a\u043b\u0430\u0441\u0441\u0430 \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438: \u0441\u043a\u043e\u0440\u043b\u0443\u043f\u0430 \u043e\u0442 \u043a\u0443\u0440\u0438\u043d\u044b\u0445 \u044f\u0438\u0446; \u043e\u0442\u0445\u043e\u0434\u044b \u0449\u0435\u043f\u044b, \u043e\u043f\u0438\u043b\u043a\u0438 \u0438 \u0441\u0442\u0440\u0443\u0436\u043a\u0430 \u043d\u0430\u0442\u0443\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u0447\u0438\u0441\u0442\u043e\u0439 \u0434\u0440\u0435\u0432\u0435\u0441\u0438\u043d\u044b; \u0434\u0435\u0440\u0435\u0432\u044f\u043d\u043d\u0430\u044f \u0443\u043f\u0430\u043a\u043e\u0432\u043a\u0430 (\u043d\u0435\u0432\u043e\u0437\u0432\u0440\u0430\u0442\u043d\u0430\u044f \u0442\u0430\u0440\u0430) \u0438\u0437 \u043d\u0430\u0442\u0443\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u0440\u0435\u0432\u0435\u0441\u0438\u043d\u044b; \u043e\u0442\u0445\u043e\u0434\u044b \u0431\u0443\u043c\u0430\u0433\u0438 \u0438 \u043a\u0430\u0440\u0442\u043e\u043d\u0430 \u043e\u0442 \u0440\u0435\u0437\u043a\u0438 \u0438 \u0448\u0442\u0430\u043c\u043f\u043e\u0432\u043a\u0438; \u043e\u0431\u0440\u0435\u0437\u044c \u0433\u043e\u0444\u0440\u043e\u043a\u0430\u0440\u0442\u043e\u043d\u0430; \u0437\u043e\u043b\u0430 \u0434\u0440\u0435\u0432\u0435\u0441\u043d\u0430\u044f \u0438 \u0441\u043e\u043b\u043e\u043c\u0435\u043d\u043d\u0430\u044f; \u043a\u0435\u0440\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0438\u0437\u0434\u0435\u043b\u0438\u044f, \u043f\u043e\u0442\u0435\u0440\u044f\u0432\u0448\u0438\u0435 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430; \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0449\u0435\u0431\u0435\u043d\u044c, \u043f\u043e\u0442\u0435\u0440\u044f\u0432\u0448\u0438\u0439 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430; \u0431\u043e\u0439 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043a\u0438\u0440\u043f\u0438\u0447\u0430; \u043e\u0442\u0445\u043e\u0434\u044b \u0433\u0438\u043f\u0441\u0430 \u0432 \u043a\u0443\u0441\u043a\u043e\u0432\u043e\u0439 \u0444\u043e\u0440\u043c\u0435; \u0430\u0431\u0440\u0430\u0437\u0438\u0432\u043d\u044b\u0435 \u043a\u0440\u0443\u0433\u0438 \u043e\u0442\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u044b\u0435, \u043d\u0430\u043a\u0438\u043f\u044c \u043a\u043e\u0442\u0435\u043b\u044c\u043d\u0430\u044f; \u043e\u0442\u0445\u043e\u0434\u044b \u0446\u0435\u043c\u0435\u043d\u0442\u0430 \u0432 \u043a\u0443\u0441\u043a\u043e\u0432\u043e\u0439 \u0444\u043e\u0440\u043c\u0435; \u043b\u043e\u043c \u0447\u0443\u0433\u0443\u043d\u043d\u044b\u0439, \u0441\u0442\u0430\u043b\u044c\u043d\u043e\u0439, \u0447\u0435\u0440\u043d\u044b\u0445 \u043c\u0435\u0442\u0430\u043b\u043b\u043e\u0432 \u0438 \u0430\u043b\u044e\u043c\u0438\u043d\u0438\u044f \u043d\u0435\u0441\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439; \u0441\u0442\u0440\u0443\u0436\u043a\u0430 \u0441\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u043d\u0435\u0437\u0430\u0433\u0440\u044f\u0437\u043d\u0435\u043d\u043d\u0430\u044f; \u0436\u0435\u043b\u0435\u0437\u043d\u044b\u0435 \u0431\u043e\u0447\u043a\u0438, \u043f\u043e\u0442\u0435\u0440\u044f\u0432\u0448\u0438\u0435 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430; \u043f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441\u043e\u0432\u0430\u044f \u043d\u0435\u0437\u0430\u0433\u0440\u044f\u0437\u043d\u0435\u043d\u043d\u0430\u044f \u0442\u0430\u0440\u0430, \u043f\u043e\u0442\u0435\u0440\u044f\u0432\u0448\u0430\u044f \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430; \u043e\u0442\u0445\u043e\u0434\u044b \u043f\u043e\u043b\u0438\u044d\u0442\u0438\u043b\u0435\u043d\u0430 \u0432 \u0432\u0438\u0434\u0435 \u043f\u043b\u0435\u043d\u043a\u0438; \u043e\u0442\u0445\u043e\u0434\u044b \u0438\u0437 \u0436\u0438\u043b\u0438\u0449 \u043a\u0440\u0443\u043f\u043d\u043e\u0433\u0430\u0431\u0430\u0440\u0438\u0442\u043d\u044b\u0435; \u043c\u0443\u0441\u043e\u0440 \u043e\u0442 \u0431\u044b\u0442\u043e\u0432\u044b\u0445 \u043f\u043e\u043c\u0435\u0449\u0435\u043d\u0438\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0439 \u043a\u0440\u0443\u043f\u043d\u043e\u0433\u0430\u0431\u0430\u0440\u0438\u0442\u043d\u044b\u0439; \u043f\u0438\u0449\u0435\u0432\u044b\u0435 \u043e\u0442\u0445\u043e\u0434\u044b \u043a\u0443\u0445\u043e\u043d\u044c \u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0439 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u043f\u0438\u0442\u0430\u043d\u0438\u044f \u043d\u0435\u0441\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435; \u043e\u0442\u0445\u043e\u0434\u044b (\u043c\u0443\u0441\u043e\u0440) \u043e\u0442 \u0443\u0431\u043e\u0440\u043a\u0438 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0438 \u043f\u043e\u043c\u0435\u0449\u0435\u043d\u0438\u0439 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u043e\u043f\u0442\u043e\u0432\u043e-\u0440\u043e\u0437\u043d\u0438\u0447\u043d\u043e\u0439 \u0442\u043e\u0440\u0433\u043e\u0432\u043b\u0438 \u043f\u0440\u043e\u0434\u043e\u0432\u043e\u043b\u044c\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c\u0438 \u0442\u043e\u0432\u0430\u0440\u0430\u043c\u0438, \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u044b\u043c\u0438 \u0442\u043e\u0432\u0430\u0440\u0430\u043c\u0438; \u043e\u0442\u0445\u043e\u0434\u044b (\u043c\u0443\u0441\u043e\u0440) \u043e\u0442 \u0443\u0431\u043e\u0440\u043a\u0438 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0438 \u043f\u043e\u043c\u0435\u0449\u0435\u043d\u0438\u0439 \u0443\u0447\u0435\u0431\u043d\u043e-\u0432\u043e\u0441\u043f\u0438\u0442\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0439, \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u043e-\u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u044b\u0445 \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0439 \u0438 \u0437\u0440\u0435\u043b\u0438\u0449\u043d\u044b\u0445 \u043c\u0435\u0440\u043e\u043f\u0440\u0438\u044f\u0442\u0438\u0439; \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043b\u0430\u043c\u043f\u044b \u043d\u0430\u043a\u0430\u043b\u0438\u0432\u0430\u043d\u0438\u044f \u043e\u0442\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u044b\u0435 \u0438 \u0431\u0440\u0430\u043a; \u043e\u0442\u0445\u043e\u0434\u044b \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u043f\u0440\u043e\u0432\u043e\u0434\u043e\u0432 \u0438 \u043a\u0430\u0431\u0435\u043b\u0435\u0439."
+  }
+},
+{
+  "model": "re_app.trash",
+  "pk": 1,
+  "fields": {
+    "name": "\u0411\u0430\u0442\u0430\u0440\u0435\u0439\u043a\u0438 (\u0410\u0410, \u0410\u0410\u0410, \"\u041a\u0440\u043e\u043d\u0430\")",
+    "type": 1,
+    "class_id": 2
+  }
+},
+{
+  "model": "re_app.trash",
+  "pk": 2,
+  "fields": {
+    "name": "\u0410\u043a\u043a\u0430\u043c\u0443\u043b\u044f\u0442\u043e\u0440\u044b",
+    "type": 1,
+    "class_id": 2
+  }
+},
+{
+  "model": "re_app.trash",
+  "pk": 3,
+  "fields": {
+    "name": "\u0411\u0443\u043c\u0430\u0433\u0430",
+    "type": 2,
+    "class_id": 5
+  }
+},
+{
+  "model": "re_app.trash",
+  "pk": 4,
+  "fields": {
+    "name": "\u041a\u0430\u0440\u0442\u043e\u043d",
+    "type": 2,
+    "class_id": 5
+  }
+},
+{
+  "model": "re_app.trash",
+  "pk": 5,
+  "fields": {
+    "name": "\u041f\u043b\u0430\u0441\u0442\u0438\u043a\u043e\u0432\u044b\u0435 \u0431\u0443\u0442\u044b\u043b\u043a\u0438",
+    "type": 3,
+    "class_id": 5
+  }
+},
+{
+  "model": "re_app.trashtype",
+  "pk": 1,
+  "fields": {
+    "name": "\u0411\u0430\u0442\u0430\u0440\u0435\u044f",
+    "description": ""
+  }
+},
+{
+  "model": "re_app.trashtype",
+  "pk": 2,
+  "fields": {
+    "name": "\u041c\u0430\u043a\u0443\u043b\u0430\u0442\u0443\u0440\u0430",
+    "description": ""
+  }
+},
+{
+  "model": "re_app.trashtype",
+  "pk": 3,
+  "fields": {
+    "name": "\u041f\u043b\u0430\u0441\u0442\u0438\u043a",
+    "description": ""
+  }
+},
+{
+  "model": "re_app.trashtype",
+  "pk": 4,
+  "fields": {
+    "name": "\u0421\u0442\u0435\u043a\u043b\u043e",
+    "description": ""
+  }
+},
+{
+  "model": "re_app.trashtype",
+  "pk": 5,
+  "fields": {
+    "name": "\u041c\u0435\u0442\u0430\u043b\u043b",
+    "description": ""
+  }
+},
+{
+  "model": "re_app.trashtype",
+  "pk": 6,
+  "fields": {
+    "name": "\u041e\u043f\u0430\u0441\u043d\u044b\u0435",
+    "description": "\u041e\u0442\u0445\u043e\u0434\u044b, \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0438\u0435 \u0432\u0440\u0435\u0434\u043d\u044b\u0435 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u0432\u043e\u0437\u0431\u0443\u0434\u0438\u0442\u0435\u043b\u0438 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0431\u043e\u043b\u0435\u0437\u043d\u0435\u0439, \u0442\u043e\u043a\u0441\u0438\u0447\u043d\u044b\u0435, \u0432\u0437\u0440\u044b\u0432\u043e\u043e\u043f\u0430\u0441\u043d\u044b\u0435 \u0438 \u043f\u043e\u0436\u0430\u0440\u043e\u043e\u043f\u0430\u0441\u043d\u044b\u0435, \u0441 \u0432\u044b\u0441\u043e\u043a\u043e\u0439 \u0440\u0435\u0430\u043a\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c\u044e, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0432\u044b\u0437\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u043a\u043e\u0440\u0440\u043e\u0437\u0438\u044e, \u0440\u0430\u0434\u0438\u043e\u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0435 (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440: \u043b\u0430\u043c\u043f\u043e\u0447\u043a\u0438, \u0433\u0440\u0430\u0434\u0443\u0441\u043d\u0438\u043a\u0438, \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u0430 \u0438 \u043f\u0440\u043e\u0447\u0438\u0435)."
+  }
+},
+{
+  "model": "re_app.trashtype",
+  "pk": 7,
+  "fields": {
+    "name": "\u2014",
+    "description": ""
+  }
+},
+{
+  "model": "re_app.user",
+  "pk": 1,
+  "fields": {
+    "login": "TestUser",
+    "password": 1234,
+    "reg_date": "2016-06-21",
+    "raiting": 0
+  }
+},
+{
+  "model": "re_app.usertrash",
+  "pk": 1,
+  "fields": {
+    "trash": 1,
+    "user": 1
+  }
+}
+]

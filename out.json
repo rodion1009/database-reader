@@ -1,0 +1,2271 @@
+[
+    {
+        "model": "re_app.station",
+        "pk": 13,
+        "fields": {
+            "name": "Сфера экологии",
+            "telephone": "+7 (495) 223-16-15",
+            "position_x": 55.752132,
+            "position_y": 37.670847,
+            "description": "http://se8.su",
+            "address": "Москва, Нижняя Сыромятническая, 10",
+            "schedule": {
+                "Пн - Вс": "10:00:00 - 20:00:00"
+            },
+            "trash": {
+                "Батарея": "",
+                "Пластик": "",
+                "Макулатура": "",
+                "Стекло": "",
+                "Металл": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 14,
+        "fields": {
+            "name": "Салон МТС",
+            "telephone": "",
+            "position_x": 55.738238,
+            "position_y": 37.720629,
+            "description": "",
+            "address": "Москва, Авиамоторная, 66",
+            "schedule": {
+                "Пн - Вс": "10:00:00 - 22:00:00"
+            },
+            "trash": {
+                "Батарея": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 15,
+        "fields": {
+            "name": "Салон МТС",
+            "telephone": "",
+            "position_x": 55.695873,
+            "position_y": 37.665684,
+            "description": "",
+            "address": "Москва, проспект Андропова, 8",
+            "schedule": {
+                "Пн - Вс": "10:00:00 - 22:00:00"
+            },
+            "trash": {
+                "Батарея": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 16,
+        "fields": {
+            "name": "Школа №1989",
+            "telephone": "+7-903-9671883",
+            "position_x": 55.662136,
+            "position_y": 37.773472,
+            "description": "Контейнер находится на первом этаже главного здания образовательного центра №1989.",
+            "address": "Москва, Белореченская, 45",
+            "schedule": {
+                "Пн - Пт": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Батарея": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 17,
+        "fields": {
+            "name": "Бюро переводов К вашим услугам",
+            "telephone": "+7-495-2150248",
+            "position_x": 55.718216,
+            "position_y": 37.607742,
+            "description": "Бизнес-центр \"Матриксофис\", офис 217",
+            "address": "Москва, Шаболовка, 34, 3",
+            "schedule": {
+                "Пн - Пт": "11:00:00 - 17:00:00"
+            },
+            "trash": {
+                "Батарея": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 18,
+        "fields": {
+            "name": "Жилой дом",
+            "telephone": "",
+            "position_x": 55.668004,
+            "position_y": 37.451372,
+            "description": "Можно передать консьержу, подъезд 9",
+            "address": "Москва, Никулинская, 23, 2",
+            "schedule": {
+                "Пн - Вс": "08:00:00 - 22:00:00"
+            },
+            "trash": {
+                "Батарея": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 19,
+        "fields": {
+            "name": "ТЦ \"Седьмой континент\"",
+            "telephone": "",
+            "position_x": 55.863711,
+            "position_y": 37.466673,
+            "description": "",
+            "address": "Москва, Ленинградское шоссе, 112, 1",
+            "schedule": {
+                "Пн - Вс": "00:00:00 - 23:00:00"
+            },
+            "trash": {
+                "Батарея": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 20,
+        "fields": {
+            "name": "Эльдорадо",
+            "telephone": "",
+            "position_x": 55.574957,
+            "position_y": 37.579268,
+            "description": "",
+            "address": "Москва, Бульвар Дмитрия Донского, 2",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 22:00:00"
+            },
+            "trash": {
+                "Батарея": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 21,
+        "fields": {
+            "name": "Pleer.ru",
+            "telephone": "8 (495) 775-04-75",
+            "position_x": 55.708546,
+            "position_y": 37.656578,
+            "description": "",
+            "address": "Москва, Мастеркова, 4",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 21:00:00"
+            },
+            "trash": {
+                "Батарея": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 22,
+        "fields": {
+            "name": "ТЦ \"Черемушки\"",
+            "telephone": "",
+            "position_x": 55.6696,
+            "position_y": 37.553851,
+            "description": "В магазине \"Эльдорадо\"",
+            "address": "Москва, Профсоюзная, 56",
+            "schedule": {
+                "Пн - Вс": "10:00:00 - 22:00:00"
+            },
+            "trash": {
+                "Батарея": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 23,
+        "fields": {
+            "name": "ТЦ \"Подсолнух\"",
+            "telephone": "",
+            "position_x": 55.809202,
+            "position_y": 37.722264,
+            "description": "В магазине \"Эльдорадо\"",
+            "address": "Москва, Открытое шоссе, 9, 1",
+            "schedule": {
+                "Пн - Вс": "10:00:00 - 22:00:00"
+            },
+            "trash": {
+                "Батарея": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 24,
+        "fields": {
+            "name": "ТК \"Л-153\"",
+            "telephone": "",
+            "position_x": 55.658806,
+            "position_y": 37.741495,
+            "description": "В магазине \"Эльдорадо\"",
+            "address": "Москва, Люблинская, 153",
+            "schedule": {
+                "Пн - Вс": "10:00:00 - 22:00:00"
+            },
+            "trash": {
+                "Батарея": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 25,
+        "fields": {
+            "name": "Магазин \"Молоток\"",
+            "telephone": "+79654103970",
+            "position_x": 55.858373,
+            "position_y": 37.672648,
+            "description": "http://hoz-molotok.ru/",
+            "address": "Москва, Летчика Бабушкина, 5",
+            "schedule": {
+                "Пн - Вс": "10:00:00 - 21:00:00"
+            },
+            "trash": {
+                "Батарея": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 26,
+        "fields": {
+            "name": "ТРЦ \"Праздник\"",
+            "telephone": "",
+            "position_x": 55.826672,
+            "position_y": 37.444962,
+            "description": "В магазине \"Эльдорадо\"",
+            "address": "Москва, Тушинская, 17",
+            "schedule": {
+                "Пн - Вс": "10:00:00 - 22:00:00"
+            },
+            "trash": {
+                "Батарея": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 27,
+        "fields": {
+            "name": "Дикси",
+            "telephone": "",
+            "position_x": 55.825829,
+            "position_y": 37.567694,
+            "description": "",
+            "address": "Москва, Красностуденческий проезд, 2",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Стекло": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 28,
+        "fields": {
+            "name": "Дикси",
+            "telephone": "",
+            "position_x": 55.831183,
+            "position_y": 37.571691,
+            "description": "",
+            "address": "Москва, Дмитровское шоссе, 37, 1",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": "",
+                "Стекло": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 29,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.829527,
+            "position_y": 37.593907,
+            "description": "",
+            "address": "Москва, Академика Комарова, 5",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 30,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.837252,
+            "position_y": 37.663351,
+            "description": "",
+            "address": "Москва, Бажова, 13, 2",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 31,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.834504,
+            "position_y": 37.666106,
+            "description": "",
+            "address": "Москва, Будайский проезд, 2",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 32,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.835777,
+            "position_y": 37.667675,
+            "description": "",
+            "address": "Москва, Будайский проезд, 6, 1",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 33,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.837019,
+            "position_y": 37.661268,
+            "description": "",
+            "address": "Москва, проспект Мира, 196",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": "",
+                "Стекло": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 34,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.836592,
+            "position_y": 37.659156,
+            "description": "",
+            "address": "Москва, проспект Мира, 192",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 35,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.835945,
+            "position_y": 37.654869,
+            "description": "",
+            "address": "Москва, проспект Мира, 165",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 36,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.788283,
+            "position_y": 37.67137,
+            "description": "",
+            "address": "Москва, Шумкина, 17",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 37,
+        "fields": {
+            "name": "ООО \"Эко-Лайн\"",
+            "telephone": "",
+            "position_x": 55.762587,
+            "position_y": 37.570294,
+            "description": "",
+            "address": "Москва, Малая Грузинская, 3",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 38,
+        "fields": {
+            "name": "ООО \"Эко-Лайн\"",
+            "telephone": "",
+            "position_x": 55.763608,
+            "position_y": 37.566956,
+            "description": "",
+            "address": "Москва, Столярный переулок, 5",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Макулатура": "",
+                "Металл": "",
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 39,
+        "fields": {
+            "name": "ООО \"Эко-Лайн\"",
+            "telephone": "",
+            "position_x": 55.795987,
+            "position_y": 37.518321,
+            "description": "",
+            "address": "Москва, Чапаевский переулок, 5",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Пластик": "",
+                "Макулатура": "",
+                "Стекло": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 40,
+        "fields": {
+            "name": "ООО \"Эко-Лайн\"",
+            "telephone": "",
+            "position_x": 55.798624,
+            "position_y": 37.529118,
+            "description": "",
+            "address": "Москва, Викторенко, 3",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": "",
+                "Стекло": "",
+                "Металл": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 41,
+        "fields": {
+            "name": "ООО \"Спецтранс\"",
+            "telephone": "",
+            "position_x": 55.846748,
+            "position_y": 37.446411,
+            "description": "",
+            "address": "Москва, Штурвальная, 3",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 42,
+        "fields": {
+            "name": "ООО \"Спецтранс\"",
+            "telephone": "",
+            "position_x": 55.848658,
+            "position_y": 37.440319,
+            "description": "",
+            "address": "Москва, Сходненская, 52",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 43,
+        "fields": {
+            "name": "ООО \"Эко-Лайн\"",
+            "telephone": "",
+            "position_x": 55.811384,
+            "position_y": 37.575112,
+            "description": "",
+            "address": "Москва, Дмитровское шоссе, 3, 2",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": "",
+                "Макулатура": "",
+                "Стекло": "",
+                "Металл": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 44,
+        "fields": {
+            "name": "ООО \"Эко-Лайн\"",
+            "telephone": "",
+            "position_x": 55.810011,
+            "position_y": 37.570016,
+            "description": "",
+            "address": "Москва, Тимирязевская, 6",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Макулатура": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Металл": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 45,
+        "fields": {
+            "name": "ООО \"Эко-Лайн\"",
+            "telephone": "",
+            "position_x": 55.812806,
+            "position_y": 37.571329,
+            "description": "",
+            "address": "Москва, Костякова, 9",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": "",
+                "Стекло": "",
+                "Металл": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 46,
+        "fields": {
+            "name": "ООО \"Эко-Лайн\"",
+            "telephone": "",
+            "position_x": 55.81042,
+            "position_y": 37.563947,
+            "description": "",
+            "address": "Москва, Астрадамская, 1, 3",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": "",
+                "Стекло": "",
+                "Металл": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 47,
+        "fields": {
+            "name": "ООО \"Эко-Лайн\"",
+            "telephone": "",
+            "position_x": 55.810651,
+            "position_y": 37.56478,
+            "description": "",
+            "address": "Москва, Астрадамская, 1, 2",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Макулатура": "",
+                "Батарея": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 48,
+        "fields": {
+            "name": "ООО \"МСК-НТ\"",
+            "telephone": "",
+            "position_x": 55.663265,
+            "position_y": 37.743935,
+            "description": "",
+            "address": "Москва, Верхние поля, 1",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Стекло": "",
+                "Металл": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 49,
+        "fields": {
+            "name": "ООО \"МСК-НТ\"",
+            "telephone": "",
+            "position_x": 55.670606,
+            "position_y": 37.765748,
+            "description": "",
+            "address": "Москва, Белореченская, 25, 1",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Пластик": "",
+                "Стекло": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 50,
+        "fields": {
+            "name": "ООО \"МСК-НТ\"",
+            "telephone": "",
+            "position_x": 55.672577,
+            "position_y": 37.794633,
+            "description": "",
+            "address": "Москва, Марьинский парк, 45",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Макулатура": "",
+                "Стекло": "",
+                "Металл": "",
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 51,
+        "fields": {
+            "name": "ООО \"МСК-НТ\"",
+            "telephone": "",
+            "position_x": 55.675238,
+            "position_y": 37.810826,
+            "description": "",
+            "address": "Москва, Степана Шутова, 8",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Пластик": "",
+                "Стекло": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 52,
+        "fields": {
+            "name": "ООО \"МСК-НТ\"",
+            "telephone": "",
+            "position_x": 55.677739,
+            "position_y": 37.772683,
+            "description": "",
+            "address": "Москва, Тихорецкий бульвар, 14, 1",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 53,
+        "fields": {
+            "name": "ООО \"МСК-НТ\"",
+            "telephone": "",
+            "position_x": 55.678695,
+            "position_y": 37.727762,
+            "description": "",
+            "address": "Москва, Полбина, 46",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 54,
+        "fields": {
+            "name": "ООО \"МСК-НТ\"",
+            "telephone": "",
+            "position_x": 55.685498,
+            "position_y": 37.731007,
+            "description": "",
+            "address": "Москва, Полбина, 32",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 55,
+        "fields": {
+            "name": "ООО \"МСК-НТ\"",
+            "telephone": "",
+            "position_x": 55.65345,
+            "position_y": 37.717846,
+            "description": "",
+            "address": "Москва, Перерва, 10",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 56,
+        "fields": {
+            "name": "ООО \"МСК-НТ\"",
+            "telephone": "",
+            "position_x": 55.644494,
+            "position_y": 37.710584,
+            "description": "",
+            "address": "Москва, Донецкая, 29",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 57,
+        "fields": {
+            "name": "ООО \"МСК-НТ\"",
+            "telephone": "",
+            "position_x": 55.646025,
+            "position_y": 37.723059,
+            "description": "",
+            "address": "Москва, Новочеркасский бульвар, 26",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Стекло": "",
+                "Металл": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 58,
+        "fields": {
+            "name": "ООО \"МСК-НТ\"",
+            "telephone": "",
+            "position_x": 55.645842,
+            "position_y": 37.73461,
+            "description": "",
+            "address": "Москва, Новочеркасский бульвар, 36",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 59,
+        "fields": {
+            "name": "ООО \"МСК-НТ\"",
+            "telephone": "",
+            "position_x": 55.649258,
+            "position_y": 37.736185,
+            "description": "",
+            "address": "Москва, Новочеркасский бульвар, 29",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 60,
+        "fields": {
+            "name": "ООО \"МСК-НТ\"",
+            "telephone": "",
+            "position_x": 55.711562,
+            "position_y": 37.793746,
+            "description": "",
+            "address": "Москва, Академика Скрябина, 16, 2",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 61,
+        "fields": {
+            "name": "ООО \"МСК-НТ\"",
+            "telephone": "",
+            "position_x": 55.730882,
+            "position_y": 37.751983,
+            "description": "",
+            "address": "Москва, Орехово-Зуевский проезд, 14",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 62,
+        "fields": {
+            "name": "ООО \"МСК-НТ\"",
+            "telephone": "",
+            "position_x": 55.730305,
+            "position_y": 37.746113,
+            "description": "",
+            "address": "Москва, Рязанский проспект, 25",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 63,
+        "fields": {
+            "name": "ООО \"МСК-НТ\"",
+            "telephone": "",
+            "position_x": 55.726524,
+            "position_y": 37.760847,
+            "description": "",
+            "address": "Москва, Рязанский проспект, 45, 1",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 64,
+        "fields": {
+            "name": "МоскваВторм",
+            "telephone": "",
+            "position_x": 55.581356,
+            "position_y": 37.629523,
+            "description": "mvtorma.ru",
+            "address": "Москва, Булатниковская, 18",
+            "schedule": {
+                "Пн - Вс": "08:10:54 - 08:10:55"
+            },
+            "trash": {
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 65,
+        "fields": {
+            "name": "Приём Вторсырья",
+            "telephone": "",
+            "position_x": 55.653428,
+            "position_y": 37.62541,
+            "description": "priem-makulaturi.com",
+            "address": "Москва, Каширский проезд, 25, 13",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 20:00:00"
+            },
+            "trash": {
+                "Макулатура": "",
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 66,
+        "fields": {
+            "name": "Прием Макулатуры",
+            "telephone": "",
+            "position_x": 55.674545,
+            "position_y": 37.638221,
+            "description": "",
+            "address": "Москва, 2-ой Нагатинский проезд, 6",
+            "schedule": {
+                "Пн - Вс": "10:00:00 - 20:00:00"
+            },
+            "trash": {
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 67,
+        "fields": {
+            "name": "Re-paper",
+            "telephone": "",
+            "position_x": 55.629089,
+            "position_y": 37.64418,
+            "description": "re-paper.ru",
+            "address": "Москва, Кавказский бульвар, 52",
+            "schedule": {
+                "Пн - Вс": "07:00:00 - 22:00:00"
+            },
+            "trash": {
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 68,
+        "fields": {
+            "name": "ООО «ПРК»",
+            "telephone": "",
+            "position_x": 55.665128,
+            "position_y": 37.478692,
+            "description": "prk-inc.ru",
+            "address": "Москва, Вернадского проспект, 84",
+            "schedule": {
+                "Пн - Пт": "10:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Макулатура": "",
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 69,
+        "fields": {
+            "name": "Экопресс",
+            "telephone": "",
+            "position_x": 55.69566,
+            "position_y": 37.459937,
+            "description": "http://ecopress.pro",
+            "address": "Москва, Очаковское шоссе, 5, 38",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Макулатура": "",
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 70,
+        "fields": {
+            "name": "РуСмак",
+            "telephone": "",
+            "position_x": 55.690685,
+            "position_y": 37.426894,
+            "description": "http://rus-mak.ru/",
+            "address": "Москва, Рябиновая, 34",
+            "schedule": {
+                "Пн - Сб": "08:00:00 - 20:00:00"
+            },
+            "trash": {
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 71,
+        "fields": {
+            "name": "Промо-Карта",
+            "telephone": "",
+            "position_x": 55.70799,
+            "position_y": 37.443436,
+            "description": "promo-kart.ru",
+            "address": "Москва, Верейская, 5",
+            "schedule": {
+                "Пн - Сб": "08:00:00 - 20:00:00"
+            },
+            "trash": {
+                "Макулатура": "",
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 72,
+        "fields": {
+            "name": "ООО ПЗПВС «ПРЕСНЯ»",
+            "telephone": "",
+            "position_x": 55.71187,
+            "position_y": 37.444144,
+            "description": "pzp-presnya.ru",
+            "address": "Москва, Верейская, 10, 1",
+            "schedule": {
+                "Пн - Вс": "08:00:00 - 20:00:00"
+            },
+            "trash": {
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 73,
+        "fields": {
+            "name": "Главвтор",
+            "telephone": "",
+            "position_x": 55.69566,
+            "position_y": 37.459937,
+            "description": "glavvtor.ru",
+            "address": "Москва, Очаковское шоссе, 5",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Макулатура": "",
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 74,
+        "fields": {
+            "name": "Люкс-Эко Сервис",
+            "telephone": "",
+            "position_x": 55.745426,
+            "position_y": 37.603953,
+            "description": "luxeko.ru",
+            "address": "Москва, Волхонка, 7",
+            "schedule": {
+                "Пн - Пт": "09:00:00 - 19:00:00"
+            },
+            "trash": {
+                "Стекло": "",
+                "Макулатура": "",
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 75,
+        "fields": {
+            "name": "ООО \"Звезда\"",
+            "telephone": "",
+            "position_x": 55.725178,
+            "position_y": 37.396931,
+            "description": "p-z-p.ru",
+            "address": "Москва, Горбунова, 2",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 76,
+        "fields": {
+            "name": "Бумотходы",
+            "telephone": "",
+            "position_x": 55.728597,
+            "position_y": 37.692856,
+            "description": "бумотходы.рф",
+            "address": "Москва, Талалихина, 41, 33",
+            "schedule": {
+                "Пн - Пт": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Макулатура": "",
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 77,
+        "fields": {
+            "name": "ЗАО ПЗП \"Первомайское\"",
+            "telephone": "",
+            "position_x": 55.706523,
+            "position_y": 37.702968,
+            "description": "1makulatura.ru",
+            "address": "Москва, Южнопротовая, 19",
+            "schedule": {
+                "Пн - Вс": "08:00:00 - 17:00:00"
+            },
+            "trash": {
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 78,
+        "fields": {
+            "name": "ГлавСнаб",
+            "telephone": "",
+            "position_x": 55.707782,
+            "position_y": 37.692823,
+            "description": "glavsnab.msk.ru",
+            "address": "Москва, Южнопротовая, 27, 7",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 79,
+        "fields": {
+            "name": "Славпапер",
+            "telephone": "",
+            "position_x": 55.66883,
+            "position_y": 37.739078,
+            "description": "slavpaper.ru",
+            "address": "Москва, Люблинская, 72, 10",
+            "schedule": {
+                "Пн - Вс": "10:00:00 - 20:00:00"
+            },
+            "trash": {
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 80,
+        "fields": {
+            "name": "ЗАО \"ВТОРСЫРЬЁПЕРЕРАБОТКА\"",
+            "telephone": "",
+            "position_x": 55.779274,
+            "position_y": 37.658028,
+            "description": "vtorsp.ru",
+            "address": "Москва, Краснопрудная, 5, 3",
+            "schedule": {
+                "Пн - Пт": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Макулатура": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Металл": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 81,
+        "fields": {
+            "name": "Чистый Лист",
+            "telephone": "",
+            "position_x": 55.792255,
+            "position_y": 37.778653,
+            "description": "вторсырье-прием.рф",
+            "address": "Москва, Первомайская, 22",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 21:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 82,
+        "fields": {
+            "name": "Прайд Энтерпрайзис",
+            "telephone": "",
+            "position_x": 55.818399,
+            "position_y": 37.752053,
+            "description": "prideeco.ru",
+            "address": "Москва, Тагильская, 4",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Макулатура": "",
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 83,
+        "fields": {
+            "name": "Альфаком",
+            "telephone": "",
+            "position_x": 55.839509,
+            "position_y": 37.670848,
+            "description": "bumagavtor.ru",
+            "address": "Москва, Северянинский проезд, 16",
+            "schedule": {
+                "Пн - Вс": "07:00:00 - 22:00:00"
+            },
+            "trash": {
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 84,
+        "fields": {
+            "name": "Вторичка24",
+            "telephone": "",
+            "position_x": 55.841288,
+            "position_y": 37.677359,
+            "description": "вторичка24.рф",
+            "address": "Москва, Северянинский проезд, 9",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Макулатура": "",
+                "Стекло": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 85,
+        "fields": {
+            "name": "БумСтрейч",
+            "telephone": "",
+            "position_x": 55.876937,
+            "position_y": 37.717071,
+            "description": "",
+            "address": "Москва, Ярославское шоссе, 129",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 86,
+        "fields": {
+            "name": "Эковтор",
+            "telephone": "",
+            "position_x": 55.875542,
+            "position_y": 37.6711,
+            "description": "ecovtor.org",
+            "address": "Москва, Староватутинский проезд, 10",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 22:00:00"
+            },
+            "trash": {
+                "Макулатура": "",
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 87,
+        "fields": {
+            "name": "ВторПро",
+            "telephone": "",
+            "position_x": 55.870607,
+            "position_y": 37.667627,
+            "description": "",
+            "address": "Москва, Енисейкая, 24",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 88,
+        "fields": {
+            "name": "Компания София",
+            "telephone": "",
+            "position_x": 55.887669,
+            "position_y": 37.643459,
+            "description": "http://ecoftor.ru/",
+            "address": "Москва, Полярная, 31",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Макулатура": "",
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 89,
+        "fields": {
+            "name": "Технимэкс",
+            "telephone": "",
+            "position_x": 55.888542,
+            "position_y": 37.574259,
+            "description": "tehnimex.ru",
+            "address": "Москва, Илимская, 3, 3",
+            "schedule": {
+                "Пн - Пт": "08:00:00 - 17:30:00"
+            },
+            "trash": {
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 90,
+        "fields": {
+            "name": "ПЗП Тимирязевское",
+            "telephone": "",
+            "position_x": 55.846564,
+            "position_y": 37.565359,
+            "description": "pzp1.ru",
+            "address": "Москва, 1-ый Нижнелихоборский проезд, 1",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 91,
+        "fields": {
+            "name": "Пункт приема макулатуры",
+            "telephone": "",
+            "position_x": 55.825927,
+            "position_y": 37.513448,
+            "description": "7308548.ru",
+            "address": "Москва, Клары Цеткин, 31",
+            "schedule": {
+                "Пн - Пт": "10:00:00 - 16:00:00"
+            },
+            "trash": {
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 92,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.802776,
+            "position_y": 37.722039,
+            "description": "",
+            "address": "Москва, Знаменская, 38, 1",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 93,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.783182,
+            "position_y": 37.696164,
+            "description": "",
+            "address": "Москва, Гастелло, 41",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 94,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.784517,
+            "position_y": 37.686466,
+            "description": "",
+            "address": "Москва, Гастелло, 14",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 95,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.784844,
+            "position_y": 37.684634,
+            "description": "",
+            "address": "Москва, 4-я Сокольническая, 1, 1",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 96,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.786241,
+            "position_y": 37.682334,
+            "description": "",
+            "address": "Москва, Гастелло, 6",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 97,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.787127,
+            "position_y": 37.685883,
+            "description": "",
+            "address": "Москва, 3-я Сокольническая, 4",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 98,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.787476,
+            "position_y": 37.685221,
+            "description": "",
+            "address": "Москва, 3-я Сокольническая, 7",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 99,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.796576,
+            "position_y": 37.705031,
+            "description": "",
+            "address": "Москва, Потешная, 2",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 100,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.803513,
+            "position_y": 37.720001,
+            "description": "",
+            "address": "Москва, Знаменская, 35",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 101,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.820654,
+            "position_y": 37.751512,
+            "description": "",
+            "address": "Москва, Открытое шоссе, 24, 1",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 102,
+        "fields": {
+            "name": "Контейнер ООО \"Хартия\"",
+            "telephone": "",
+            "position_x": 55.827892,
+            "position_y": 37.758319,
+            "description": "",
+            "address": "Москва, Открытое шоссе, 25, 10",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 103,
+        "fields": {
+            "name": "ООО \"Спецтранс\"",
+            "telephone": "",
+            "position_x": 55.785664,
+            "position_y": 37.477726,
+            "description": "",
+            "address": "Москва, Маршала Тухачевского, 22, 3",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Стекло": "",
+                "Пластик": "",
+                "Металл": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 104,
+        "fields": {
+            "name": "ООО \"Спецтранс\"",
+            "telephone": "",
+            "position_x": 55.785868,
+            "position_y": 37.470622,
+            "description": "",
+            "address": "Москва, Маршала Тухачевского, 40, 2",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Пластик": "",
+                "Стекло": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 105,
+        "fields": {
+            "name": "ООО \"Спецтранс\"",
+            "telephone": "",
+            "position_x": 55.785752,
+            "position_y": 37.467726999999999,
+            "description": "",
+            "address": "Москва, Маршала Тухачевского, 44, 1",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Стекло": "",
+                "Металл": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 106,
+        "fields": {
+            "name": "ООО \"Спецтранс\"",
+            "telephone": "",
+            "position_x": 55.787499,
+            "position_y": 37.476942,
+            "description": "",
+            "address": "Москва, Генерала Берзарина, 19, 1",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": "",
+                "Макулатура": "",
+                "Стекло": "",
+                "Металл": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 107,
+        "fields": {
+            "name": "ООО \"Спецтранс\"",
+            "telephone": "",
+            "position_x": 55.787229,
+            "position_y": 37.480705,
+            "description": "",
+            "address": "Москва, Генерала Берзарина, 15",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Пластик": "",
+                "Стекло": "",
+                "Металл": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 108,
+        "fields": {
+            "name": "ООО \"Спецтранс\"",
+            "telephone": "",
+            "position_x": 55.788146,
+            "position_y": 37.470923,
+            "description": "",
+            "address": "Москва, Генерала Глаголева, 30, 5",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Стекло": "",
+                "Металл": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 109,
+        "fields": {
+            "name": "ООО \"Спецтранс\"",
+            "telephone": "",
+            "position_x": 55.788378,
+            "position_y": 37.466417,
+            "description": "",
+            "address": "Москва, Генерала Глаголева, 30, 2",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Стекло": "",
+                "Пластик": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 110,
+        "fields": {
+            "name": "ООО \"Эко-Лайн\"",
+            "telephone": "",
+            "position_x": 55.831,
+            "position_y": 37.524817,
+            "description": "",
+            "address": "Москва, Коптевский бульвар, 11",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Металл": "",
+                "Пластик": "",
+                "Стекло": "",
+                "Макулатура": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 111,
+        "fields": {
+            "name": "Дикси",
+            "telephone": "",
+            "position_x": 55.80746,
+            "position_y": 37.559671,
+            "description": "",
+            "address": "Москва, Вучетича, 5",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Стекло": "",
+                "Металл": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 112,
+        "fields": {
+            "name": "Дикси",
+            "telephone": "",
+            "position_x": 55.775696,
+            "position_y": 37.5332,
+            "description": "",
+            "address": "Москва, Хорошевское шоссе, 15",
+            "schedule": {
+                "Пн - Вс": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Стекло": "",
+                "Пластик": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 113,
+        "fields": {
+            "name": "Бизнес Трейд",
+            "telephone": "(495) 637-12-85",
+            "position_x": 55.903744,
+            "position_y": 37.623511,
+            "description": "",
+            "address": "Москва, Владимирская, 15",
+            "schedule": {
+                "Пн - Чт": "08:00:00 - 17:00:00",
+                "Пт - Пт": "08:00:00 - 16:00:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие)."
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 114,
+        "fields": {
+            "name": "Арсенал Групп",
+            "telephone": "",
+            "position_x": 55.758913,
+            "position_y": 37.7992,
+            "description": "",
+            "address": "Москва, Федеративный пр-т, 5, 3",
+            "schedule": {
+                "Пн - Вс": "08:00:00 - 21:00:00",
+                "Пн - Вс": "08:00:00 - 21:00:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие)."
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 115,
+        "fields": {
+            "name": "Эксжилстрой",
+            "telephone": "+7 (495) 670-00-50",
+            "position_x": 55.746918,
+            "position_y": 37.758641,
+            "description": "http://www.exgilstroy.mpi.ru/",
+            "address": "Москва, Перовская, 8, 1",
+            "schedule": {
+                "Пн - Чт": "09:00:00 - 18:00:00",
+                "Пт - Пт": "09:00:00 - 17:00:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие)."
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 116,
+        "fields": {
+            "name": "ЮНИ",
+            "telephone": "",
+            "position_x": 55.747963,
+            "position_y": 37.774916,
+            "description": "www.ukunidom.ru",
+            "address": "Москва, Зелёный пр-т, 6, 2",
+            "schedule": {
+                "Пн - Чт": "09:00:00 - 18:00:00",
+                "Пт - Пт": "09:00:00 - 16:00:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие)."
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 117,
+        "fields": {
+            "name": "ЮНИ",
+            "telephone": "",
+            "position_x": 55.759024,
+            "position_y": 37.773738,
+            "description": "www.ukunidom.ru",
+            "address": "Москва, ул. 1-я Владимирская, 8",
+            "schedule": {
+                "Пн - Чт": "09:00:00 - 18:00:00",
+                "Пт - Пт": "09:00:00 - 16:00:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие)."
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 118,
+        "fields": {
+            "name": "ЮНИ",
+            "telephone": "",
+            "position_x": 55.763269,
+            "position_y": 37.779895,
+            "description": "www.ukunidom.ru",
+            "address": "Москва, ш.Энтузиастов, 70",
+            "schedule": {
+                "Пн - Чт": "09:00:00 - 18:00:00",
+                "Пт - Пт": "09:00:00 - 16:00:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие)."
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 119,
+        "fields": {
+            "name": "ЭКОТРОМ",
+            "telephone": "495 374 62 35",
+            "position_x": 55.554994,
+            "position_y": 37.714806,
+            "description": "http://www.ecotrom.ru",
+            "address": "Москва, Заводская, 16",
+            "schedule": {
+                "Пн - Чт": "09:00:00 - 16:30:00",
+                "Пт - Пт": "09:00:00 - 15:30:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие)."
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 120,
+        "fields": {
+            "name": "ЭКОТРОМ",
+            "telephone": "495 374 62 35",
+            "position_x": 55.60988,
+            "position_y": 37.63254,
+            "description": "http://www.ecotrom.ru/",
+            "address": "Москва, Дорожная, 3, 16",
+            "schedule": {
+                "Пн - Чт": "09:00:00 - 17:30:00",
+                "Пт - Пт": "09:00:00 - 16:30:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие)."
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 121,
+        "fields": {
+            "name": "ЭКОТРОМ",
+            "telephone": "495 374 62 35",
+            "position_x": 55.811991,
+            "position_y": 37.804624,
+            "description": "http://www.ecotrom.ru/",
+            "address": "Москва, Щёлковское шоссе, 77, 1",
+            "schedule": {
+                "Пн - Чт": "09:00:00 - 17:30:00",
+                "Пт - Пт": "09:00:00 - 16:30:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие)."
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 122,
+        "fields": {
+            "name": "ЭКОТРОМ",
+            "telephone": "495 374 62 35",
+            "position_x": 55.647107,
+            "position_y": 37.620788,
+            "description": "www.ecotrom.ru",
+            "address": "Москва, Варшавское шоссе, 93",
+            "schedule": {
+                "Пн - Чт": "09:00:00 - 17:30:00",
+                "Пт - Пт": "09:00:00 - 16:30:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие)."
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 123,
+        "fields": {
+            "name": "ЭКОТРОМ",
+            "telephone": "495 374 62 35",
+            "position_x": 55.704505,
+            "position_y": 37.653809,
+            "description": "www.ecotrom.ru",
+            "address": "Москва, Автозаводская, 17, 1",
+            "schedule": {
+                "Пн - Чт": "09:00:00 - 17:30:00",
+                "Пт - Пт": "09:00:00 - 16:30:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие)."
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 124,
+        "fields": {
+            "name": "ЭКОН",
+            "telephone": "(495) 944-17-01",
+            "position_x": 55.858913,
+            "position_y": 37.414337,
+            "description": "www.econ-hg.ru",
+            "address": "Москва, Героев Панфиловцев, 20, 1",
+            "schedule": {
+                "Пн - Пт": "09:00:00 - 17:00:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие)."
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 125,
+        "fields": {
+            "name": "Интер Грин",
+            "telephone": "(495) 775-81-41",
+            "position_x": 55.723593,
+            "position_y": 37.673141,
+            "description": "www.intergreen.ru",
+            "address": "Москва, 1-я Дубровская, 13, 2",
+            "schedule": {
+                "Пн - Пт": "10:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие)."
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 126,
+        "fields": {
+            "name": "Гипермаркет \"Globus\"",
+            "telephone": "",
+            "position_x": 55.790639,
+            "position_y": 37.368563,
+            "description": "",
+            "address": "Москва, Новорижское шоссе, 22-й км, 1, 1",
+            "schedule": {
+                "Пн - Вс": "08:00:00 - 23:00:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие).",
+                "Батарея": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 127,
+        "fields": {
+            "name": "ИКЕА",
+            "telephone": "",
+            "position_x": 55.562252,
+            "position_y": 37.440749,
+            "description": "http://www.ikea.com/ru/ru/store/teply_stan",
+            "address": "Москва, Калужское шоссе, 21-й км, 0",
+            "schedule": {
+                "Пн - Вс": "10:00:00 - 02:00:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие).",
+                "Батарея": ""
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 128,
+        "fields": {
+            "name": "ЛОМ-АКБ",
+            "telephone": "(499) 650-52-09",
+            "position_x": 55.719784,
+            "position_y": 37.727522,
+            "description": "http://www.priem-akkumulyatorov.ru/",
+            "address": "Москва, 1-й Грайвороновский пр., 4",
+            "schedule": {
+                "Пн - Пт": "10:00:00 - 21:00:00",
+                "Сб - Вс": "10:00:00 - 20:00:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие)."
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 129,
+        "fields": {
+            "name": "ОСКАБ",
+            "telephone": "(495) 105-92-42",
+            "position_x": 55.873436,
+            "position_y": 37.472397,
+            "description": "oskab.ru",
+            "address": "Москва, Левобережная, 6, 17",
+            "schedule": {
+                "Пн - Пт": "09:00:00 - 18:00:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие)."
+            }
+        }
+    },
+    {
+        "model": "re_app.station",
+        "pk": 130,
+        "fields": {
+            "name": "ОСКАБ",
+            "telephone": "(495) 105-92-42",
+            "position_x": 55.818897,
+            "position_y": 37.731251,
+            "description": "http://oskab.ru/",
+            "address": "Москва, 5-й проезд Подбельского, 6",
+            "schedule": {
+                "Пн - Пт": "09:00:00 - 21:00:00",
+                "Сб - Вс": "10:00:00 - 18:45:00"
+            },
+            "trash": {
+                "Опасные": "Отходы, содержащие вредные вещества, в том числе возбудители инфекционных болезней, токсичные, взрывоопасные и пожароопасные, с высокой реакционной способностью, например, вызывающие коррозию, радиоактивные (например: лампочки, градусники, лекарства и прочие)."
+            }
+        }
+    }
+]
